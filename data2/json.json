@@ -119,6 +119,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 8,
+      "eventType": 5,
+      "worldId": 4008,
+      "name": "第2届武技钻研竞技赛",
+      "backgroundImageFileName": "",
+      "mainImageFileName": "",
+      "logoImageFileName": "",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240312030000",
+      "toDate": "20240322235959",
+      "rewardFromDate": "20240322235959",
+      "rewardToDate": "20240329235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -150,6 +174,11 @@
     "image/event/logo/7.png": {
       "0": {
         "md5": "245ffa3a595e4aef19bc73ed5ef184f9"
+      }
+    },
+    "image/event/logo/8.png": {
+      "0": {
+        "md5": "1ffb6bb903a08094a3ac299d5bb92509"
       }
     }
   },
@@ -321,6 +350,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240317235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4008,
+      "areaId": 400801,
+      "name": "第2届武技钻研竞技赛",
+      "text": "此处为伤害积分竞赛的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "",
       "startTime": "",
       "endTime": ""
     }
