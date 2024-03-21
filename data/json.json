@@ -180,6 +180,11 @@
         "md5": "2e3ab6a0d251d041c88b9b2a75799e8d"
       }
     },
+    "image/event/logo/55.png": {
+      "0": {
+        "md5": "317e9f8e64af15b20cc93903ab4e9c41"
+      }
+    },
     "image/event/logo/6.png": {
       "0": {
         "md5": "9e049a1d4b8b08c7ed730815b2fb8ecd"
@@ -1113,6 +1118,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 55,
+      "eventType": 15,
+      "worldId": 4055,
+      "name": "第4回ギルド団結武闘祭",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "55",
+      "logoImageFileName": "55",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240321133000",
+      "toDate": "20240327235959",
+      "rewardFromDate": "20240328160000",
+      "rewardToDate": "20240403235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "EventQuestArea": [
