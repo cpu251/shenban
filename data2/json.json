@@ -143,6 +143,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 9,
+      "eventType": 1,
+      "worldId": 4009,
+      "name": "亲子的羁绊！相扑武者修行",
+      "backgroundImageFileName": "1009",
+      "mainImageFileName": "9",
+      "logoImageFileName": "9",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10360101",
+      "fromDate": "20240321030000",
+      "toDate": "20240406235959",
+      "rewardFromDate": "20240406235959",
+      "rewardToDate": "20240413235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_036"
     }
   ],
   "assets": {
@@ -179,6 +203,11 @@
     "image/event/logo/8.png": {
       "0": {
         "md5": "1ffb6bb903a08094a3ac299d5bb92509"
+      }
+    },
+    "image/event/logo/9.png": {
+      "0": {
+        "md5": "fbb7e0c6347bebfdc1851249f33458ac"
       }
     }
   },
@@ -367,6 +396,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4009,
+      "areaId": 400901,
+      "name": "亲子的羁绊！相扑武者修行",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240406235959",
       "startTime": "",
       "endTime": ""
     }
