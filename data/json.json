@@ -195,6 +195,11 @@
         "md5": "39a1dc981010f968e0fd637bd85d632c"
       }
     },
+    "image/event/logo/59.png": {
+      "0": {
+        "md5": "1075bde9bc6c14008adfe12a822ef2d8"
+      }
+    },
     "image/event/logo/6.png": {
       "0": {
         "md5": "9e049a1d4b8b08c7ed730815b2fb8ecd"
@@ -1196,6 +1201,30 @@
       "toDate": "20240407235959",
       "rewardFromDate": "20240408000000",
       "rewardToDate": "20240410235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 59,
+      "eventType": 6,
+      "worldId": 4059,
+      "name": "フロッティ降臨戦",
+      "backgroundImageFileName": "1003",
+      "mainImageFileName": "59",
+      "logoImageFileName": "59",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20240411133000",
+      "toDate": "20240425125959",
+      "rewardFromDate": "20240425133000",
+      "rewardToDate": "20240502235959",
       "conditionType": 0,
       "conditionFrom": 0,
       "conditionTo": 0,
@@ -2676,6 +2705,78 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240407235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4059,
+      "areaId": 405901,
+      "name": "NORMAL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5005902,5005903,5005905",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240425125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4059,
+      "areaId": 405902,
+      "name": "HARD",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5005902,5005903,5005905",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240425125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4059,
+      "areaId": 405903,
+      "name": "EXTRA",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5005902,5005903,5005905",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240425125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4059,
+      "areaId": 405904,
+      "name": "HELL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5005902,5005903,5005905",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240425125959",
       "startTime": "",
       "endTime": ""
     }
