@@ -74,6 +74,11 @@
     }
   ],
   "assets": {
+    "image/event/logo/1.png": {
+      "0": {
+        "md5": "372b5c5fc182da66fbc51768465a61fb"
+      }
+    },
     "image/event/logo/56.png": {
       "0": {
         "md5": "8246fd451e534c17dc24985d7366ffa2"
