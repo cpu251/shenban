@@ -50,6 +50,11 @@
     }
   ],
   "assets": {
+    "image/event/logo/1.png": {
+      "0": {
+        "md5": "c271e16be35c347c59877f3873503a9a"
+      }
+    },
     "image/event/logo/9.png": {
       "0": {
         "md5": "fbb7e0c6347bebfdc1851249f33458ac"
