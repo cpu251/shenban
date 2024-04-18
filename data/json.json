@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 60,
+      "eventType": 9,
+      "worldId": 4060,
+      "name": "第1回 極致絆成武闘宴",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "60",
+      "logoImageFileName": "60",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240418133000",
+      "toDate": "20240424235959",
+      "rewardFromDate": "20240425160000",
+      "rewardToDate": "20240501235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
