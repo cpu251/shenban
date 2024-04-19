@@ -17,7 +17,7 @@
       "naviFileName": "10360101",
       "fromDate": "20240321030000",
       "toDate": "20240406235959",
-      "rewardFromDate": "20240406235959",
+      "rewardFromDate": "20240321030000",
       "rewardToDate": "20240413235959",
       "conditionType": 0,
       "conditionFrom": 0,
@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 12,
+      "eventType": 5,
+      "worldId": 4012,
+      "name": "第3届武技钻研竞技赛",
+      "backgroundImageFileName": "",
+      "mainImageFileName": "",
+      "logoImageFileName": "",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240419030000",
+      "toDate": "20240428235959",
+      "rewardFromDate": "20240428235959",
+      "rewardToDate": "20240505235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/11.png": {
       "0": {
         "md5": "a3a6972d9869f70db07d77a24a198e36"
+      }
+    },
+    "image/event/logo/12.png": {
+      "0": {
+        "md5": "0b863afa477b0d50e1b8178ed06288f6"
       }
     }
   },
@@ -149,6 +178,23 @@
       "weekTypes": "",
       "fromDate": "20240411030000",
       "toDate": "20240427235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4012,
+      "areaId": 401201,
+      "name": "第3届武技钻研竞技赛",
+      "text": "此处为伤害积分竞赛的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "",
       "startTime": "",
       "endTime": ""
     }
