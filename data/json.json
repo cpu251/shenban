@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 61,
+      "eventType": 11,
+      "worldId": 4061,
+      "name": "テサロティアGP～神速のスタートダッシュ～",
+      "backgroundImageFileName": "1061",
+      "mainImageFileName": "61",
+      "logoImageFileName": "61",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240425133000",
+      "toDate": "20240514125959",
+      "rewardFromDate": "20240514125959",
+      "rewardToDate": "20240514125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_071"
     }
   ],
   "assets": {
@@ -87,6 +111,11 @@
     "image/event/logo/59.png": {
       "0": {
         "md5": "1075bde9bc6c14008adfe12a822ef2d8"
+      }
+    },
+    "image/event/logo/61.png": {
+      "0": {
+        "md5": "7994c9c34e07dd2f564ac05db4f1d753"
       }
     }
   },
@@ -196,6 +225,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240425125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4061,
+      "areaId": 406101,
+      "name": "テサロティアGP～神速のスタートダッシュ～",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240514125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4061,
+      "areaId": 406102,
+      "name": "テサロティアGP～神速のスタートダッシュ～-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20240507160000",
+      "toDate": "20240514125959",
       "startTime": "",
       "endTime": ""
     }
