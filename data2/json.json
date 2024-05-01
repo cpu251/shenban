@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 13,
+      "eventType": 1,
+      "worldId": 4013,
+      "name": "雨停吧！晴天的宝藏猎人",
+      "backgroundImageFileName": "1013",
+      "mainImageFileName": "13",
+      "logoImageFileName": "13",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10350101",
+      "fromDate": "20240501030000",
+      "toDate": "20240517235959",
+      "rewardFromDate": "20240501030000",
+      "rewardToDate": "20240524235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_037"
     }
   ],
   "assets": {
@@ -64,6 +88,11 @@
       "0": {
         "md5": "0b863afa477b0d50e1b8178ed06288f6"
       }
+    },
+    "image/event/logo/13.png": {
+      "0": {
+        "md5": "a5f02915db82970714674bd479b768d2"
+      }
     }
   },
   "EventQuestArea": [
@@ -79,8 +108,8 @@
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5001102,5001103,5001105",
       "weekTypes": "",
-      "fromDate": "20240411030000",
-      "toDate": "20240427235959",
+      "fromDate": "",
+      "toDate": "20240602235959",
       "startTime": "",
       "endTime": ""
     },
@@ -96,8 +125,8 @@
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5001102,5001103,5001105",
       "weekTypes": "",
-      "fromDate": "20240411030000",
-      "toDate": "20240427235959",
+      "fromDate": "",
+      "toDate": "20240602235959",
       "startTime": "",
       "endTime": ""
     },
@@ -113,8 +142,8 @@
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5001102,5001103,5001105",
       "weekTypes": "",
-      "fromDate": "20240411030000",
-      "toDate": "20240427235959",
+      "fromDate": "",
+      "toDate": "20240602235959",
       "startTime": "",
       "endTime": ""
     },
@@ -130,8 +159,8 @@
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5001102,5001103,5001105",
       "weekTypes": "",
-      "fromDate": "20240411030000",
-      "toDate": "20240427235959",
+      "fromDate": "",
+      "toDate": "20240602235959",
       "startTime": "",
       "endTime": ""
     },
@@ -149,6 +178,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4013,
+      "areaId": 401301,
+      "name": "雨停吧！晴天的宝藏猎人",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240517235959",
       "startTime": "",
       "endTime": ""
     }
