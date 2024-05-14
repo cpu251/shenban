@@ -23,6 +23,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_071"
+    },
+    {
+      "eventId": 63,
+      "eventType": 16,
+      "worldId": 4063,
+      "name": "ダントレイルの事件簿～破滅の指輪と運命のカード～",
+      "backgroundImageFileName": "1063",
+      "mainImageFileName": "63",
+      "logoImageFileName": "63",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240514133000",
+      "toDate": "20240530125959",
+      "rewardFromDate": "20240530133000",
+      "rewardToDate": "20240606235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
