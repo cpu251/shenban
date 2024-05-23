@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 64,
+      "eventType": 15,
+      "worldId": 4064,
+      "name": "第5回ギルド団結武闘祭",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "64",
+      "logoImageFileName": "64",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240523133000",
+      "toDate": "20240529235959",
+      "rewardFromDate": "20240530160000",
+      "rewardToDate": "20240605235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -58,6 +82,11 @@
     "image/event/logo/61.png": {
       "0": {
         "md5": "7994c9c34e07dd2f564ac05db4f1d753"
+      }
+    },
+    "image/event/logo/64.png": {
+      "0": {
+        "md5": "368c8b465052903fd56c92366e6f6164"
       }
     }
   },
