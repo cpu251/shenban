@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 61,
-      "eventType": 11,
-      "worldId": 4061,
-      "name": "テサロティアGP～神速のスタートダッシュ～",
-      "backgroundImageFileName": "1061",
-      "mainImageFileName": "61",
-      "logoImageFileName": "61",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240425133000",
-      "toDate": "20240514125959",
-      "rewardFromDate": "20240514125959",
-      "rewardToDate": "20240514125959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_071"
-    },
-    {
       "eventId": 63,
       "eventType": 16,
       "worldId": 4063,
@@ -79,53 +55,11 @@
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
     },
-    "image/event/logo/61.png": {
-      "0": {
-        "md5": "7994c9c34e07dd2f564ac05db4f1d753"
-      }
-    },
     "image/event/logo/64.png": {
       "0": {
         "md5": "368c8b465052903fd56c92366e6f6164"
       }
     }
   },
-  "EventQuestArea": [
-    {
-      "worldId": 4061,
-      "areaId": 406101,
-      "name": "テサロティアGP～神速のスタートダッシュ～",
-      "text": "交換アイテム収集イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240514125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4061,
-      "areaId": 406102,
-      "name": "テサロティアGP～神速のスタートダッシュ～-後半戦",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20240507133000",
-      "toDate": "20240514125959",
-      "startTime": "",
-      "endTime": ""
-    }
-  ]
+  "EventQuestArea": []
 }
