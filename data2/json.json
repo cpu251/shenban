@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 13,
-      "eventType": 1,
-      "worldId": 4013,
-      "name": "雨停吧！晴天的宝藏猎人",
-      "backgroundImageFileName": "1013",
-      "mainImageFileName": "13",
-      "logoImageFileName": "13",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10350101",
-      "fromDate": "20240501030000",
-      "toDate": "20240517235959",
-      "rewardFromDate": "20240517235959",
-      "rewardToDate": "20240517235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_037"
-    },
-    {
       "eventId": 15,
       "eventType": 6,
       "worldId": 4015,
@@ -79,11 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/13.png": {
-      "0": {
-        "md5": "a5f02915db82970714674bd479b768d2"
-      }
-    },
     "image/event/logo/15.png": {
       "0": {
         "md5": "8b29d51bf2446741d3ab68d6628a3ed6"
@@ -96,23 +67,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4013,
-      "areaId": 401301,
-      "name": "雨停吧！晴天的宝藏猎人",
-      "text": "此处为交换道具收集活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240517235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4015,
       "areaId": 401501,
