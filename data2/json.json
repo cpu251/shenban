@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 17,
+      "eventType": 1,
+      "worldId": 4017,
+      "name": "盛夏!!潮声的求生岛",
+      "backgroundImageFileName": "1017",
+      "mainImageFileName": "17",
+      "logoImageFileName": "17",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10370101",
+      "fromDate": "20240603030000",
+      "toDate": "20240619235959",
+      "rewardFromDate": "20240619235959",
+      "rewardToDate": "20240619235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_038"
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/16.png": {
       "0": {
         "md5": "d8d28790add5943d4a57c9d8943e4489"
+      }
+    },
+    "image/event/logo/17.png": {
+      "0": {
+        "md5": "d8cbb4edef0869fe6c9eb0ed52b8e67c"
       }
     }
   },
@@ -149,6 +178,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4017,
+      "areaId": 401701,
+      "name": "盛夏！ ！潮声的求生岛",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240619235959",
       "startTime": "",
       "endTime": ""
     }
