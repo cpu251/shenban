@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 63,
-      "eventType": 16,
-      "worldId": 4063,
-      "name": "ダントレイルの事件簿～破滅の指輪と運命のカード～",
-      "backgroundImageFileName": "1063",
-      "mainImageFileName": "63",
-      "logoImageFileName": "63",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240514133000",
-      "toDate": "20240530125959",
-      "rewardFromDate": "20240530133000",
-      "rewardToDate": "20240606235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
-      "eventId": 64,
-      "eventType": 15,
-      "worldId": 4064,
-      "name": "第5回ギルド団結武闘祭",
-      "backgroundImageFileName": "1026",
-      "mainImageFileName": "64",
-      "logoImageFileName": "64",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240523133000",
-      "toDate": "20240529235959",
-      "rewardFromDate": "20240530160000",
-      "rewardToDate": "20240605235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 65,
       "eventType": 11,
       "worldId": 4065,
@@ -101,11 +53,6 @@
     "image/event/logo/1.png": {
       "0": {
         "md5": "372b5c5fc182da66fbc51768465a61fb"
-      }
-    },
-    "image/event/logo/64.png": {
-      "0": {
-        "md5": "368c8b465052903fd56c92366e6f6164"
       }
     },
     "image/event/logo/65.png": {
