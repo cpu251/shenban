@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 15,
-      "eventType": 6,
-      "worldId": 4015,
-      "name": "和金降临战",
-      "backgroundImageFileName": "1003",
-      "mainImageFileName": "15",
-      "logoImageFileName": "15",
-      "mainEnemySpineResourceId": "310591",
-      "mainEnemySpineScale": "1.2, 1.2",
-      "mainEnemySpineOffset": "-300, -150",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10320101",
-      "fromDate": "20240517030000",
-      "toDate": "20240602235959",
-      "rewardFromDate": "20240602235959",
-      "rewardToDate": "20240609235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 16,
-      "eventType": 5,
-      "worldId": 4016,
-      "name": "第4届武技钻研竞技赛",
-      "backgroundImageFileName": "",
-      "mainImageFileName": "",
-      "logoImageFileName": "",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240527030000",
-      "toDate": "20240602235959",
-      "rewardFromDate": "20240602235959",
-      "rewardToDate": "20240609235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
       "eventId": 17,
       "eventType": 1,
       "worldId": 4017,
@@ -79,16 +31,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/15.png": {
-      "0": {
-        "md5": "8b29d51bf2446741d3ab68d6628a3ed6"
-      }
-    },
-    "image/event/logo/16.png": {
-      "0": {
-        "md5": "d8d28790add5943d4a57c9d8943e4489"
-      }
-    },
     "image/event/logo/17.png": {
       "0": {
         "md5": "d8cbb4edef0869fe6c9eb0ed52b8e67c"
@@ -96,91 +38,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4015,
-      "areaId": 401501,
-      "name": "NORMAL",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5001502,5001503,5001505",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240602235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4015,
-      "areaId": 401502,
-      "name": "HARD",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5001502,5001503,5001505",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240602235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4015,
-      "areaId": 401503,
-      "name": "EXTRA",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5001502,5001503,5001505",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240602235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4015,
-      "areaId": 401504,
-      "name": "HELL",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5001502,5001503,5001505",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240602235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4016,
-      "areaId": 401601,
-      "name": "第4届武技钻研竞技赛",
-      "text": "此处为伤害积分竞赛的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4017,
       "areaId": 401701,
