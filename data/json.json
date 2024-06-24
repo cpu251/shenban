@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 69,
+      "eventType": 9,
+      "worldId": 4069,
+      "name": "第2回 極致絆成武闘宴",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "69",
+      "logoImageFileName": "69",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240624133000",
+      "toDate": "20240630235959",
+      "rewardFromDate": "20240701160000",
+      "rewardToDate": "20240707235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
