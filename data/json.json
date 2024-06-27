@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 65,
-      "eventType": 11,
-      "worldId": 4065,
-      "name": "アルタイト音楽祭～CIZGA結成！～",
-      "backgroundImageFileName": "1065",
-      "mainImageFileName": "65",
-      "logoImageFileName": "65",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240530133000",
-      "toDate": "20240612125959",
-      "rewardFromDate": "20240612125959",
-      "rewardToDate": "20240612125959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_074"
-    },
-    {
       "eventId": 67,
       "eventType": 16,
       "worldId": 4067,
@@ -78,49 +54,7 @@
       "0": {
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
-    },
-    "image/event/logo/65.png": {
-      "0": {
-        "md5": "e88d7be3b9990ddd97c28aa19ec5429c"
-      }
     }
   },
-  "EventQuestArea": [
-    {
-      "worldId": 4065,
-      "areaId": 406501,
-      "name": "アルタイト音楽祭～CIZGA結成！～",
-      "text": "交換アイテム収集イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240612125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4065,
-      "areaId": 406502,
-      "name": "アルタイト音楽祭～CIZGA結成！～-後半戦",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20240605133000",
-      "toDate": "20240612125959",
-      "startTime": "",
-      "endTime": ""
-    }
-  ]
+  "EventQuestArea": []
 }
