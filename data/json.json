@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 70,
+      "eventType": 11,
+      "worldId": 4070,
+      "name": "ようこそ！アロラティノンリゾートへ",
+      "backgroundImageFileName": "1070",
+      "mainImageFileName": "70",
+      "logoImageFileName": "70",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240628133000",
+      "toDate": "20240716125959",
+      "rewardFromDate": "20240716125959",
+      "rewardToDate": "20240716125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_075"
     }
   ],
   "assets": {
@@ -54,7 +78,49 @@
       "0": {
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
+    },
+    "image/event/logo/70.png": {
+      "0": {
+        "md5": "c92244ea22f719cd6fb680191e6a59fd"
+      }
     }
   },
-  "EventQuestArea": []
+  "EventQuestArea": [
+    {
+      "worldId": 4070,
+      "areaId": 407001,
+      "name": "ようこそ！アロラティノンリゾートへ",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240716125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4070,
+      "areaId": 407002,
+      "name": "ようこそ！アロラティノンリゾートへ-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20240708160000",
+      "toDate": "20240716125959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ]
 }
