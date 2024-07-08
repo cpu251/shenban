@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 21,
+      "eventType": 1,
+      "worldId": 4021,
+      "name": "嘿呦！热情与羁绊的夏日庆典",
+      "backgroundImageFileName": "1021",
+      "mainImageFileName": "21",
+      "logoImageFileName": "21",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10370101",
+      "fromDate": "20240708030000",
+      "toDate": "20240724235959",
+      "rewardFromDate": "20240724235959",
+      "rewardToDate": "20240724235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_039"
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/20.png": {
       "0": {
         "md5": "a29b7811048e61e6b3419e212618e67c"
+      }
+    },
+    "image/event/logo/21.png": {
+      "0": {
+        "md5": "4313c02ee484bdad80e62c5c6fe8ec68"
       }
     }
   },
@@ -149,6 +178,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240707235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4021,
+      "areaId": 402101,
+      "name": "嘿呦！热情与羁绊的夏日庆典",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240724235959",
       "startTime": "",
       "endTime": ""
     }
