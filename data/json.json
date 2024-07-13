@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 67,
-      "eventType": 16,
-      "worldId": 4067,
-      "name": "新生！魔物討伐隊～香煙る面影～",
-      "backgroundImageFileName": "1067",
-      "mainImageFileName": "67",
-      "logoImageFileName": "67",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240612133000",
-      "toDate": "20240628125959",
-      "rewardFromDate": "20240628133000",
-      "rewardToDate": "20240705235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
       "eventId": 69,
       "eventType": 9,
       "worldId": 4069,
