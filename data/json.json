@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 73,
+      "eventType": 15,
+      "worldId": 4073,
+      "name": "第6回ギルド団結武闘祭",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "73",
+      "logoImageFileName": "73",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240723133000",
+      "toDate": "20240729235959",
+      "rewardFromDate": "20240730160000",
+      "rewardToDate": "20240805235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -58,6 +82,11 @@
     "image/event/logo/70.png": {
       "0": {
         "md5": "c92244ea22f719cd6fb680191e6a59fd"
+      }
+    },
+    "image/event/logo/73.png": {
+      "0": {
+        "md5": "05d03c1f1930bc62e92b12c0b46c939a"
       }
     }
   },
