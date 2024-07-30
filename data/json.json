@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 74,
+      "eventType": 11,
+      "worldId": 4074,
+      "name": "オーシャンアドベンチャー 〜オセアーレと凸凹トリオ～",
+      "backgroundImageFileName": "1074",
+      "mainImageFileName": "74",
+      "logoImageFileName": "74",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240730133000",
+      "toDate": "20240813125959",
+      "rewardFromDate": "20240813125959",
+      "rewardToDate": "20240813125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_080"
     }
   ],
   "assets": {
@@ -87,6 +111,11 @@
     "image/event/logo/73.png": {
       "0": {
         "md5": "05d03c1f1930bc62e92b12c0b46c939a"
+      }
+    },
+    "image/event/logo/74.png": {
+      "0": {
+        "md5": "18a6001f12d149dc635b55e9b435a61d"
       }
     }
   },
@@ -124,6 +153,42 @@
       "weekTypes": "",
       "fromDate": "20240708133000",
       "toDate": "20240716125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4074,
+      "areaId": 407401,
+      "name": "オーシャンアドベンチャー ",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240813125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4074,
+      "areaId": 407402,
+      "name": "オーシャンアドベンチャー -後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20240806160000",
+      "toDate": "20240813125959",
       "startTime": "",
       "endTime": ""
     }
