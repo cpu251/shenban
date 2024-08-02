@@ -66,6 +66,23 @@
       }
     }
   },
+  "assets1": {
+    "image/event/logo/1.png": {
+      "0": {
+        "md5": "c271e16be35c347c59877f3873503a9a"
+      }
+    },
+    "image/event/logo/21.png": {
+      "0": {
+        "md5": "b301300ff16ed068694dfdecfbecfe63"
+      }
+    },
+    "image/event/logo/23.png": {
+      "0": {
+        "md5": "d2b4912bc73830c6ca82aea5bf95d894"
+      }
+    }
+  },
   "EventQuestArea": [
     {
       "worldId": 4021,
