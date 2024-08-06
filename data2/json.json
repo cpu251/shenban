@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 25,
+      "eventType": 5,
+      "worldId": 4025,
+      "name": "第6届武技钻研竞技赛",
+      "backgroundImageFileName": "",
+      "mainImageFileName": "",
+      "logoImageFileName": "",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240806030000",
+      "toDate": "20240812235959",
+      "rewardFromDate": "20240813030000",
+      "rewardToDate": "20240819235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -64,6 +88,11 @@
       "0": {
         "md5": "4d179d54ee591de4bcf5a5515cc60480"
       }
+    },
+    "image/event/logo/25.png": {
+      "0": {
+        "md5": "7c854bc0bd195dad6b7ed211366a834c"
+      }
     }
   },
   "assets1": {
@@ -80,6 +109,11 @@
     "image/event/logo/23.png": {
       "0": {
         "md5": "d2b4912bc73830c6ca82aea5bf95d894"
+      }
+    },
+    "image/event/logo/25.png": {
+      "0": {
+        "md5": "e9113ca79aee9adce6d4ff79199cab1f"
       }
     }
   },
@@ -163,6 +197,23 @@
       "rewardItemCount": 0,
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5002302,5002303,5002305",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240812235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4025,
+      "areaId": 402501,
+      "name": "第6届武技钻研竞技赛",
+      "text": "此处为伤害积分竞赛的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240812235959",
