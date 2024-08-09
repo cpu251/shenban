@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 21,
-      "eventType": 1,
-      "worldId": 4021,
-      "name": "嘿呦！热情与羁绊的夏日庆典",
-      "backgroundImageFileName": "1021",
-      "mainImageFileName": "21",
-      "logoImageFileName": "21",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10370101",
-      "fromDate": "20240708030000",
-      "toDate": "20240724235959",
-      "rewardFromDate": "20240724235959",
-      "rewardToDate": "20240724235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_039"
-    },
-    {
       "eventId": 23,
       "eventType": 6,
       "worldId": 4023,
@@ -79,11 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/21.png": {
-      "0": {
-        "md5": "4313c02ee484bdad80e62c5c6fe8ec68"
-      }
-    },
     "image/event/logo/23.png": {
       "0": {
         "md5": "4d179d54ee591de4bcf5a5515cc60480"
@@ -101,11 +72,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/21.png": {
-      "0": {
-        "md5": "b301300ff16ed068694dfdecfbecfe63"
-      }
-    },
     "image/event/logo/23.png": {
       "0": {
         "md5": "d2b4912bc73830c6ca82aea5bf95d894"
@@ -118,23 +84,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4021,
-      "areaId": 402101,
-      "name": "嘿呦！热情与羁绊的夏日庆典",
-      "text": "此处为交换道具收集活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240724235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4023,
       "areaId": 402301,
