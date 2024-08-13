@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 26,
+      "eventType": 1,
+      "worldId": 4026,
+      "name": "魔法VS武力 争夺霸权的学校对抗战",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "26",
+      "logoImageFileName": "26",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10370101",
+      "fromDate": "20240813030000",
+      "toDate": "20240829235959",
+      "rewardFromDate": "20240829235959",
+      "rewardToDate": "20240905235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_040"
     }
   ],
   "assets": {
@@ -64,6 +88,11 @@
       "0": {
         "md5": "7c854bc0bd195dad6b7ed211366a834c"
       }
+    },
+    "image/event/logo/26.png": {
+      "0": {
+        "md5": "f71eeaf07d3ff6a9e549218816c55a1f"
+      }
     }
   },
   "assets1": {
@@ -80,6 +109,11 @@
     "image/event/logo/25.png": {
       "0": {
         "md5": "e9113ca79aee9adce6d4ff79199cab1f"
+      }
+    },
+    "image/event/logo/26.png": {
+      "0": {
+        "md5": "90100c75a64ec0315a58fc55034c43b3"
       }
     }
   },
@@ -166,6 +200,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240812235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4026,
+      "areaId": 402601,
+      "name": "魔法VS武力 争夺霸权的学校对抗战",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240829235959",
       "startTime": "",
       "endTime": ""
     }
