@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_080"
+    },
+    {
+      "eventId": 76,
+      "eventType": 16,
+      "worldId": 4076,
+      "name": "火消しヒーローズ！",
+      "backgroundImageFileName": "1076",
+      "mainImageFileName": "76",
+      "logoImageFileName": "76",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240813133000",
+      "toDate": "20240829125959",
+      "rewardFromDate": "20240829133000",
+      "rewardToDate": "20240904235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
