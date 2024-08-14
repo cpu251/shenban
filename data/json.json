@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 72,
-      "eventType": 16,
-      "worldId": 4072,
-      "name": "ギアンク・コード～密偵の矜持～",
-      "backgroundImageFileName": "1072",
-      "mainImageFileName": "72",
-      "logoImageFileName": "72",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240716133000",
-      "toDate": "20240730125959",
-      "rewardFromDate": "20240730133000",
-      "rewardToDate": "20240806235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
-      "eventId": 73,
-      "eventType": 15,
-      "worldId": 4073,
-      "name": "第6回ギルド団結武闘祭",
-      "backgroundImageFileName": "1026",
-      "mainImageFileName": "73",
-      "logoImageFileName": "73",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240723133000",
-      "toDate": "20240729235959",
-      "rewardFromDate": "20240730160000",
-      "rewardToDate": "20240805235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 74,
       "eventType": 11,
       "worldId": 4074,
@@ -101,11 +53,6 @@
     "image/event/logo/1.png": {
       "0": {
         "md5": "372b5c5fc182da66fbc51768465a61fb"
-      }
-    },
-    "image/event/logo/73.png": {
-      "0": {
-        "md5": "05d03c1f1930bc62e92b12c0b46c939a"
       }
     },
     "image/event/logo/74.png": {
