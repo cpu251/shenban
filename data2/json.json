@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 23,
-      "eventType": 6,
-      "worldId": 4023,
-      "name": "斯瓦尔降临战",
-      "backgroundImageFileName": "1003",
-      "mainImageFileName": "23",
-      "logoImageFileName": "23",
-      "mainEnemySpineResourceId": "310591",
-      "mainEnemySpineScale": "1.2, 1.2",
-      "mainEnemySpineOffset": "-300, -150",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10320101",
-      "fromDate": "20240725030000",
-      "toDate": "20240812235959",
-      "rewardFromDate": "20240812235959",
-      "rewardToDate": "20240819235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 25,
-      "eventType": 5,
-      "worldId": 4025,
-      "name": "第6届武技钻研竞技赛",
-      "backgroundImageFileName": "",
-      "mainImageFileName": "",
-      "logoImageFileName": "",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240806030000",
-      "toDate": "20240812235959",
-      "rewardFromDate": "20240813030000",
-      "rewardToDate": "20240819235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
       "eventId": 26,
       "eventType": 1,
       "worldId": 4026,
@@ -79,16 +31,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/23.png": {
-      "0": {
-        "md5": "4d179d54ee591de4bcf5a5515cc60480"
-      }
-    },
-    "image/event/logo/25.png": {
-      "0": {
-        "md5": "7c854bc0bd195dad6b7ed211366a834c"
-      }
-    },
     "image/event/logo/26.png": {
       "0": {
         "md5": "f71eeaf07d3ff6a9e549218816c55a1f"
@@ -101,16 +43,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/logo/23.png": {
-      "0": {
-        "md5": "d2b4912bc73830c6ca82aea5bf95d894"
-      }
-    },
-    "image/event/logo/25.png": {
-      "0": {
-        "md5": "e9113ca79aee9adce6d4ff79199cab1f"
-      }
-    },
     "image/event/logo/26.png": {
       "0": {
         "md5": "90100c75a64ec0315a58fc55034c43b3"
@@ -118,91 +50,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4023,
-      "areaId": 402301,
-      "name": "NORMAL",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5002302,5002303,5002305",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240812235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4023,
-      "areaId": 402302,
-      "name": "HARD",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5002302,5002303,5002305",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240812235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4023,
-      "areaId": 402303,
-      "name": "EXTRA",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5002302,5002303,5002305",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240812235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4023,
-      "areaId": 402304,
-      "name": "HELL",
-      "text": "此处为降临战活动的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5002302,5002303,5002305",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240812235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4025,
-      "areaId": 402501,
-      "name": "第6届武技钻研竞技赛",
-      "text": "此处为伤害积分竞赛的地区",
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240812235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4026,
       "areaId": 402601,
