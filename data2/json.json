@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 29,
+      "eventType": 15,
+      "worldId": 4029,
+      "name": "第1届公会团结武斗大会",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "29",
+      "logoImageFileName": "29",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240910030000",
+      "toDate": "20240916235959",
+      "rewardFromDate": "20240917030000",
+      "rewardToDate": "20240923235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -64,6 +88,11 @@
       "0": {
         "md5": "04ec3cf32e2fe68a1a931c869cfac9d2"
       }
+    },
+    "image/event/logo/29.png": {
+      "0": {
+        "md5": "e4de4935ff87fa0a928a7636351f4afb"
+      }
     }
   },
   "assets1": {
@@ -80,6 +109,11 @@
     "image/event/logo/28.png": {
       "0": {
         "md5": "f9f13263b21cb23cd60025c25247c717"
+      }
+    },
+    "image/event/logo/29.png": {
+      "0": {
+        "md5": "790b9bc91eb3ce67b2e46c88a6312fe9"
       }
     }
   },
