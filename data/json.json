@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_081"
+    },
+    {
+      "eventId": 81,
+      "eventType": 6,
+      "worldId": 4081,
+      "name": "ギュゲース降臨戦",
+      "backgroundImageFileName": "1003",
+      "mainImageFileName": "81",
+      "logoImageFileName": "81",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20240912133000",
+      "toDate": "20240926125959",
+      "rewardFromDate": "20240926133000",
+      "rewardToDate": "20241003235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -82,6 +106,11 @@
     "image/event/logo/79.png": {
       "0": {
         "md5": "5adc79224e868445e01f737b6a5c854a"
+      }
+    },
+    "image/event/logo/81.png": {
+      "0": {
+        "md5": "940295cd0067a367b13864fc25df544d"
       }
     }
   },
@@ -119,6 +148,78 @@
       "weekTypes": "",
       "fromDate": "20240905133000",
       "toDate": "20240912125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4081,
+      "areaId": 408101,
+      "name": "NORMAL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5008102,5008103,5008105,5008106",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240926125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4081,
+      "areaId": 408102,
+      "name": "HARD",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5008102,5008103,5008105,5008106",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240926125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4081,
+      "areaId": 408103,
+      "name": "EXTRA",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5008102,5008103,5008105,5008106",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240926125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4081,
+      "areaId": 408104,
+      "name": "HELL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5008102,5008103,5008105,5008106",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20240926125959",
       "startTime": "",
       "endTime": ""
     }
