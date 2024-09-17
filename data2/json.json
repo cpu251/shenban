@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 30,
+      "eventType": 1,
+      "worldId": 4030,
+      "name": "锦秋刀湯 —追忆盟友—",
+      "backgroundImageFileName": "1030",
+      "mainImageFileName": "30",
+      "logoImageFileName": "30",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10370101",
+      "fromDate": "20240917030000",
+      "toDate": "20241003235959",
+      "rewardFromDate": "20241003235959",
+      "rewardToDate": "20241003235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_046"
     }
   ],
   "assets": {
@@ -64,6 +88,11 @@
       "0": {
         "md5": "e4de4935ff87fa0a928a7636351f4afb"
       }
+    },
+    "image/event/logo/30.png": {
+      "0": {
+        "md5": "1b07a8ffd902fb6c06e99e74874b0a25"
+      }
     }
   },
   "assets1": {
@@ -80,6 +109,11 @@
     "image/event/logo/29.png": {
       "0": {
         "md5": "790b9bc91eb3ce67b2e46c88a6312fe9"
+      }
+    },
+    "image/event/logo/30.png": {
+      "0": {
+        "md5": "79b04cc704a9d8344c0c7ac7d4f3ddd6"
       }
     }
   },
@@ -149,6 +183,23 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240916235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4030,
+      "areaId": 403001,
+      "name": "锦秋刀泉 —追忆盟友—",
+      "text": "此处为交换道具收集活动的地区",
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241003235959",
       "startTime": "",
       "endTime": ""
     }
