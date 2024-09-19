@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 82,
+      "eventType": 15,
+      "worldId": 4082,
+      "name": "第7回ギルド団結武闘祭",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "82",
+      "logoImageFileName": "82",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240919133000",
+      "toDate": "20240925235959",
+      "rewardFromDate": "20240926160000",
+      "rewardToDate": "20241002235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/81.png": {
       "0": {
         "md5": "940295cd0067a367b13864fc25df544d"
+      }
+    },
+    "image/event/logo/82.png": {
+      "0": {
+        "md5": "c28393f99c5198a0b5f572c406030c62"
       }
     }
   },
