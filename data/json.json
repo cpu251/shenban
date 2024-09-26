@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 83,
+      "eventType": 11,
+      "worldId": 4083,
+      "name": "天灯祭　～夜空に煌めく絆の杯～",
+      "backgroundImageFileName": "1083",
+      "mainImageFileName": "83",
+      "logoImageFileName": "83",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20240926133000",
+      "toDate": "20241010125959",
+      "rewardFromDate": "20241010125959",
+      "rewardToDate": "20241010125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_087"
     }
   ],
   "assets": {
@@ -92,6 +116,11 @@
     "image/event/logo/82.png": {
       "0": {
         "md5": "c28393f99c5198a0b5f572c406030c62"
+      }
+    },
+    "image/event/logo/83.png": {
+      "0": {
+        "md5": "7d6ff33fc6568f31299f8806e7468eaa"
       }
     }
   },
@@ -201,6 +230,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20240926125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4083,
+      "areaId": 408301,
+      "name": "天灯祭　～夜空に煌めく絆の杯～",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241010125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4083,
+      "areaId": 408302,
+      "name": "天灯祭　～夜空に煌めく絆の杯～-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20241003160000",
+      "toDate": "20241010125959",
       "startTime": "",
       "endTime": ""
     }
