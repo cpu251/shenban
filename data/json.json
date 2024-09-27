@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 79,
-      "eventType": 11,
-      "worldId": 4079,
-      "name": "暗秋郷～狂妖の恨み～",
-      "backgroundImageFileName": "1079",
-      "mainImageFileName": "79",
-      "logoImageFileName": "79",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20240829133000",
-      "toDate": "20240912125959",
-      "rewardFromDate": "20240912125959",
-      "rewardToDate": "20240912125959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_081"
-    },
-    {
       "eventId": 81,
       "eventType": 6,
       "worldId": 4081,
@@ -103,11 +79,6 @@
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
     },
-    "image/event/logo/79.png": {
-      "0": {
-        "md5": "5adc79224e868445e01f737b6a5c854a"
-      }
-    },
     "image/event/logo/81.png": {
       "0": {
         "md5": "940295cd0067a367b13864fc25df544d"
@@ -125,42 +96,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4079,
-      "areaId": 407901,
-      "name": "暗秋郷～狂妖の恨み～",
-      "text": "交換アイテム収集イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20240912125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4079,
-      "areaId": 407902,
-      "name": "暗秋郷～狂妖の恨み～-後半戦",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20240905133000",
-      "toDate": "20240912125959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4081,
       "areaId": 408101,
