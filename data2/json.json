@@ -23,6 +23,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_046"
+    },
+    {
+      "eventId": 32,
+      "eventType": 6,
+      "worldId": 4032,
+      "name": "阿里斯塔凯恩降临战",
+      "backgroundImageFileName": "1003",
+      "mainImageFileName": "32",
+      "logoImageFileName": "32",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20241004030000",
+      "toDate": "20241022235959",
+      "rewardFromDate": "20241022235959",
+      "rewardToDate": "20241029235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -34,6 +58,11 @@
     "image/event/logo/30.png": {
       "0": {
         "md5": "1b07a8ffd902fb6c06e99e74874b0a25"
+      }
+    },
+    "image/event/logo/32.png": {
+      "0": {
+        "md5": "a362c1772759e50d074fe781fb44546c"
       }
     }
   },
@@ -47,6 +76,11 @@
       "0": {
         "md5": "79b04cc704a9d8344c0c7ac7d4f3ddd6"
       }
+    },
+    "image/event/logo/32.png": {
+      "0": {
+        "md5": "7be3c92923bdcf45cfb72c3a86fbe6f2"
+      }
     }
   },
   "EventQuestArea": [
@@ -55,6 +89,7 @@
       "areaId": 403001,
       "name": "锦秋刀泉 —追忆盟友—",
       "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
       "fileName": "101",
       "rewardItemType": 0,
       "rewardItemId": 0,
@@ -64,6 +99,78 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20241003235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4032,
+      "areaId": 403201,
+      "name": "NORMAL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5003202,5003203,5003205",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241022235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4032,
+      "areaId": 403202,
+      "name": "HARD",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5003202,5003203,5003205",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241022235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4032,
+      "areaId": 403203,
+      "name": "EXTRA",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5003202,5003203,5003205",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241022235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4032,
+      "areaId": 403204,
+      "name": "HELL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710",
+      "targetItemIds": "5003202,5003203,5003205",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241022235959",
       "startTime": "",
       "endTime": ""
     }
