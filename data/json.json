@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_087"
+    },
+    {
+      "eventId": 85,
+      "eventType": 16,
+      "worldId": 4085,
+      "name": "テュ―スの頂き～ふたつの闘志～",
+      "backgroundImageFileName": "1085",
+      "mainImageFileName": "85",
+      "logoImageFileName": "85",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241010133000",
+      "toDate": "20241029125959",
+      "rewardFromDate": "20241029133000",
+      "rewardToDate": "20241105235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
