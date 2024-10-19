@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 30,
-      "eventType": 1,
-      "worldId": 4030,
-      "name": "锦秋刀湯 —追忆盟友—",
-      "backgroundImageFileName": "1030",
-      "mainImageFileName": "30",
-      "logoImageFileName": "30",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10370101",
-      "fromDate": "20240917030000",
-      "toDate": "20241003235959",
-      "rewardFromDate": "20241003235959",
-      "rewardToDate": "20241003235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_046"
-    },
-    {
       "eventId": 32,
       "eventType": 6,
       "worldId": 4032,
@@ -84,16 +60,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1003001.png": {
-      "0": {
-        "md5": "1b07a8ffd902fb6c06e99e74874b0a25"
-      }
-    },
-    "image/event/logo/30.png": {
-      "0": {
-        "md5": "1b07a8ffd902fb6c06e99e74874b0a25"
-      }
-    },
     "image/event/banner/1003201.png": {
       "0": {
         "md5": "a362c1772759e50d074fe781fb44546c"
@@ -126,16 +92,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1003001.png": {
-      "0": {
-        "md5": "79b04cc704a9d8344c0c7ac7d4f3ddd6"
-      }
-    },
-    "image/event/logo/30.png": {
-      "0": {
-        "md5": "79b04cc704a9d8344c0c7ac7d4f3ddd6"
-      }
-    },
     "image/event/banner/1003201.png": {
       "0": {
         "md5": "7be3c92923bdcf45cfb72c3a86fbe6f2"
@@ -158,24 +114,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4030,
-      "areaId": 403001,
-      "name": "锦秋刀泉 —追忆盟友—",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241003235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4032,
       "areaId": 403201,
