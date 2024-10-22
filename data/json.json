@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 86,
+      "eventType": 9,
+      "worldId": 4086,
+      "name": "第4回 極致絆成武闘宴",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "86",
+      "logoImageFileName": "86",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241022133000",
+      "toDate": "20241028235959",
+      "rewardFromDate": "20241029160000",
+      "rewardToDate": "20241104235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
