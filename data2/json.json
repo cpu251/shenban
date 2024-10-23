@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 34,
+      "eventType": 11,
+      "worldId": 4034,
+      "name": "欢迎来到宏提尼亚",
+      "backgroundImageFileName": "1034",
+      "mainImageFileName": "34",
+      "logoImageFileName": "34",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241023030000",
+      "toDate": "20241110235959",
+      "rewardFromDate": "20241110235959",
+      "rewardToDate": "20241117235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_050"
     }
   ],
   "assets": {
@@ -79,6 +103,21 @@
       "0": {
         "md5": "63428bb0d717a0e2aaf3a3338ec97bc6"
       }
+    },
+    "image/event/banner/1003401.png": {
+      "0": {
+        "md5": "cc9d5653ad4e9205f897f2cd0aadeae2"
+      }
+    },
+    "image/event/banner/1003403.png": {
+      "0": {
+        "md5": "baa8b6ba5ceab731f0bee9ef36ae8aa3"
+      }
+    },
+    "image/event/logo/34.png": {
+      "0": {
+        "md5": "cc9d5653ad4e9205f897f2cd0aadeae2"
+      }
     }
   },
   "assets1": {
@@ -110,6 +149,21 @@
     "image/event/logo/33.png": {
       "0": {
         "md5": "4c7c5b4bd2ce285beb81df2d1810cec9"
+      }
+    },
+    "image/event/banner/1003401.png": {
+      "0": {
+        "md5": "ce21b647e19bfb54988a4f2dc0a926df"
+      }
+    },
+    "image/event/banner/1003403.png": {
+      "0": {
+        "md5": "0af6930c23eb09366f47e122618acd3b"
+      }
+    },
+    "image/event/logo/34.png": {
+      "0": {
+        "md5": "ce21b647e19bfb54988a4f2dc0a926df"
       }
     }
   },
@@ -201,6 +255,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20241022235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4034,
+      "areaId": 403401,
+      "name": "欢迎来到宏提尼亚",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241110235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4034,
+      "areaId": 403402,
+      "name": "欢迎来到宏提尼亚-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20241101030000",
+      "toDate": "20241110235959",
       "startTime": "",
       "endTime": ""
     }
