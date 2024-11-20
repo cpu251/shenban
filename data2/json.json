@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 37,
+      "eventType": 15,
+      "worldId": 4037,
+      "name": "第2届公会团结武斗大会",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "37",
+      "logoImageFileName": "37",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241120030000",
+      "toDate": "20241126235959",
+      "rewardFromDate": "20241127030000",
+      "rewardToDate": "20241203235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -84,6 +108,16 @@
       "0": {
         "md5": "cae04447b67c12d9b1b591002631420d"
       }
+    },
+    "image/event/banner/1003701.png": {
+      "0": {
+        "md5": "ed66264a7846bd3dc36e32715567f7b9"
+      }
+    },
+    "image/event/logo/37.png": {
+      "0": {
+        "md5": "ed66264a7846bd3dc36e32715567f7b9"
+      }
     }
   },
   "assets1": {
@@ -120,6 +154,16 @@
     "image/event/logo/36.png": {
       "0": {
         "md5": "090c9caaf21825f051ba599ac8ad8827"
+      }
+    },
+    "image/event/banner/1003701.png": {
+      "0": {
+        "md5": "1386df13718deb9c245876ab8e5a3595"
+      }
+    },
+    "image/event/logo/37.png": {
+      "0": {
+        "md5": "1386df13718deb9c245876ab8e5a3595"
       }
     }
   },
