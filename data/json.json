@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 90,
+      "eventType": 15,
+      "worldId": 4090,
+      "name": "第8回ギルド団結武闘祭",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "90",
+      "logoImageFileName": "90",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241121133000",
+      "toDate": "20241127235959",
+      "rewardFromDate": "20241128160000",
+      "rewardToDate": "20241204235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/89.png": {
       "0": {
         "md5": "7e0687552fd1092802863f23ba711e55"
+      }
+    },
+    "image/event/logo/90.png": {
+      "0": {
+        "md5": "495343bd08cbb7c3072af97aa5de8dab"
       }
     }
   },
