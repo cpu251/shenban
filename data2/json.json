@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 38,
+      "eventType": 11,
+      "worldId": 4038,
+      "name": "呵呵呵！圣诞老人选拔测验",
+      "backgroundImageFileName": "1038",
+      "mainImageFileName": "38",
+      "logoImageFileName": "38",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241127030000",
+      "toDate": "20241211235959",
+      "rewardFromDate": "20241211235959",
+      "rewardToDate": "20241218235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_051"
     }
   ],
   "assets": {
@@ -79,6 +103,21 @@
       "0": {
         "md5": "ed66264a7846bd3dc36e32715567f7b9"
       }
+    },
+    "image/event/banner/1003801.png": {
+      "0": {
+        "md5": "2a87bafdcd01d0ca2090e605123a0e4d"
+      }
+    },
+    "image/event/banner/1003803.png": {
+      "0": {
+        "md5": "f53affc64544ac254865783d9722dbad"
+      }
+    },
+    "image/event/logo/38.png": {
+      "0": {
+        "md5": "2a87bafdcd01d0ca2090e605123a0e4d"
+      }
     }
   },
   "assets1": {
@@ -110,6 +149,21 @@
     "image/event/logo/37.png": {
       "0": {
         "md5": "1386df13718deb9c245876ab8e5a3595"
+      }
+    },
+    "image/event/banner/1003801.png": {
+      "0": {
+        "md5": "a8a387eea762bc615b0aa81d3e65acb9"
+      }
+    },
+    "image/event/banner/1003803.png": {
+      "0": {
+        "md5": "50b93b592481b2c37c1ab5717aa6bfc4"
+      }
+    },
+    "image/event/logo/38.png": {
+      "0": {
+        "md5": "a8a387eea762bc615b0aa81d3e65acb9"
       }
     }
   },
@@ -183,6 +237,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20241201235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4038,
+      "areaId": 403801,
+      "name": "呵呵呵！圣诞老人选拔试验",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241211235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4038,
+      "areaId": 403802,
+      "name": "呵呵呵！圣诞老人选拔试验-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20241205030000",
+      "toDate": "20241211235959",
       "startTime": "",
       "endTime": ""
     }
