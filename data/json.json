@@ -171,7 +171,7 @@
     {
       "worldId": 4091,
       "areaId": 409101,
-      "name": "クリスマス・ディライト ～愛と真心を込めたケーキを～",
+      "name": "クリスマス・ディライト",
       "text": "交換アイテム収集イベントのエリアです",
       "eventAreaType": 0,
       "fileName": "101",
@@ -189,7 +189,7 @@
     {
       "worldId": 4091,
       "areaId": 409102,
-      "name": "クリスマス・ディライト ～愛と真心を込めたケーキを～-後半戦",
+      "name": "クリスマス・ディライト-後半戦",
       "text": "",
       "eventAreaType": 1,
       "fileName": "101",
@@ -199,7 +199,7 @@
       "targetItemTypes": "0",
       "targetItemIds": "0",
       "weekTypes": "",
-      "fromDate": "20241206160000",
+      "fromDate": "20241206133000",
       "toDate": "20241213125959",
       "startTime": "",
       "endTime": ""
