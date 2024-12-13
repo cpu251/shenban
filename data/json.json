@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 89,
-      "eventType": 6,
-      "worldId": 4089,
-      "name": "フライクーゲル降臨戦",
-      "backgroundImageFileName": "90001",
-      "mainImageFileName": "89",
-      "logoImageFileName": "89",
-      "mainEnemySpineResourceId": "310591",
-      "mainEnemySpineScale": "1.2, 1.2",
-      "mainEnemySpineOffset": "-300, -150",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10320101",
-      "fromDate": "20241114133000",
-      "toDate": "20241128125959",
-      "rewardFromDate": "20241128133000",
-      "rewardToDate": "20241205235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 90,
-      "eventType": 15,
-      "worldId": 4090,
-      "name": "第8回ギルド団結武闘祭",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "90",
-      "logoImageFileName": "90",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20241121133000",
-      "toDate": "20241127235959",
-      "rewardFromDate": "20241128160000",
-      "rewardToDate": "20241204235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 91,
       "eventType": 11,
       "worldId": 4091,
@@ -79,16 +31,6 @@
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
     },
-    "image/event/logo/89.png": {
-      "0": {
-        "md5": "7e0687552fd1092802863f23ba711e55"
-      }
-    },
-    "image/event/logo/90.png": {
-      "0": {
-        "md5": "495343bd08cbb7c3072af97aa5de8dab"
-      }
-    },
     "image/event/logo/91.png": {
       "0": {
         "md5": "241ede2e1a3bc774a29d77720ec70b64"
@@ -96,78 +38,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4089,
-      "areaId": 408901,
-      "name": "NORMAL",
-      "text": "降臨戦イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710,710",
-      "targetItemIds": "5008902,5008903,5008905,5008906",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241128125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4089,
-      "areaId": 408902,
-      "name": "HARD",
-      "text": "降臨戦イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710,710",
-      "targetItemIds": "5008902,5008903,5008905,5008906",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241128125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4089,
-      "areaId": 408903,
-      "name": "EXTRA",
-      "text": "降臨戦イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710,710",
-      "targetItemIds": "5008902,5008903,5008905,5008906",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241128125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4089,
-      "areaId": 408904,
-      "name": "HELL",
-      "text": "降臨戦イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710,710",
-      "targetItemIds": "5008902,5008903,5008905,5008906",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241128125959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4091,
       "areaId": 409101,
@@ -182,7 +52,7 @@
       "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20241213125959",
+      "toDate": "20241216125959",
       "startTime": "",
       "endTime": ""
     },
@@ -200,7 +70,7 @@
       "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "20241206133000",
-      "toDate": "20241213125959",
+      "toDate": "20241216125959",
       "startTime": "",
       "endTime": ""
     }
