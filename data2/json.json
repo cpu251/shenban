@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 36,
-      "eventType": 6,
-      "worldId": 4036,
-      "name": "青虹剑降临战",
-      "backgroundImageFileName": "1003",
-      "mainImageFileName": "36",
-      "logoImageFileName": "36",
-      "mainEnemySpineResourceId": "310591",
-      "mainEnemySpineScale": "1.2, 1.2",
-      "mainEnemySpineOffset": "-300, -150",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10320101",
-      "fromDate": "20241111030000",
-      "toDate": "20241201235959",
-      "rewardFromDate": "20241201235959",
-      "rewardToDate": "20241208235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
       "eventId": 38,
       "eventType": 11,
       "worldId": 4038,
@@ -84,16 +60,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1003601.png": {
-      "0": {
-        "md5": "16c5ff9daabc3dcd2bf9df3f49981965"
-      }
-    },
-    "image/event/logo/36.png": {
-      "0": {
-        "md5": "cae04447b67c12d9b1b591002631420d"
-      }
-    },
     "image/event/banner/1003801.png": {
       "0": {
         "md5": "2a87bafdcd01d0ca2090e605123a0e4d"
@@ -131,16 +97,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1003601.png": {
-      "0": {
-        "md5": "b14527067572d03a481982c5046533e2"
-      }
-    },
-    "image/event/logo/36.png": {
-      "0": {
-        "md5": "090c9caaf21825f051ba599ac8ad8827"
-      }
-    },
     "image/event/banner/1003801.png": {
       "0": {
         "md5": "a8a387eea762bc615b0aa81d3e65acb9"
@@ -168,78 +124,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4036,
-      "areaId": 403601,
-      "name": "NORMAL",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5003602,5003603,5003605",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241201235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4036,
-      "areaId": 403602,
-      "name": "HARD",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5003602,5003603,5003605",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241201235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4036,
-      "areaId": 403603,
-      "name": "EXTRA",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5003602,5003603,5003605",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241201235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4036,
-      "areaId": 403604,
-      "name": "HELL",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5003602,5003603,5003605",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20241201235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4038,
       "areaId": 403801,
