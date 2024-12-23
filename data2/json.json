@@ -47,6 +47,54 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 41,
+      "eventType": 5,
+      "worldId": 4041,
+      "name": "第8届武技钻研竞技赛",
+      "backgroundImageFileName": "",
+      "mainImageFileName": "",
+      "logoImageFileName": "",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241223030000",
+      "toDate": "20241229235959",
+      "rewardFromDate": "20241230030000",
+      "rewardToDate": "20250105235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 43,
+      "eventType": 11,
+      "worldId": 4043,
+      "name": "恭贺新喜─响彻金徐年夜的钟声─",
+      "backgroundImageFileName": "1043",
+      "mainImageFileName": "43",
+      "logoImageFileName": "43",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241230030000",
+      "toDate": "20250114235959",
+      "rewardFromDate": "20250114235959",
+      "rewardToDate": "20250121235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_056"
     }
   ],
   "assets": {
@@ -84,6 +132,31 @@
       "0": {
         "md5": "f963ab582f39624febfe66e1e0baa2a2"
       }
+    },
+    "image/event/banner/1004101.png": {
+      "0": {
+        "md5": "f962c222cce56f335afeadc2d3175f0d"
+      }
+    },
+    "image/event/logo/41.png": {
+      "0": {
+        "md5": "a55799de13bfe26c0957fad2f9ab8373"
+      }
+    },
+    "image/event/banner/1004301.png": {
+      "0": {
+        "md5": "e2c2d657f99158ce31cfe40e359b73df"
+      }
+    },
+    "image/event/banner/1004303.png": {
+      "0": {
+        "md5": "8d017286ee3c3888910bae79ad8fb396"
+      }
+    },
+    "image/event/logo/43.png": {
+      "0": {
+        "md5": "e2c2d657f99158ce31cfe40e359b73df"
+      }
     }
   },
   "assets1": {
@@ -120,6 +193,31 @@
     "image/event/logo/40.png": {
       "0": {
         "md5": "fa63e8e623ae67e060d6e593c679527d"
+      }
+    },
+    "image/event/banner/1004101.png": {
+      "0": {
+        "md5": "72b6e14bb822385c114d1306bbac4986"
+      }
+    },
+    "image/event/logo/41.png": {
+      "0": {
+        "md5": "9df41b2ff695d28e15d39115b598c1c9"
+      }
+    },
+    "image/event/banner/1004301.png": {
+      "0": {
+        "md5": "283fdbabbe39cc777a98f818605be1dd"
+      }
+    },
+    "image/event/banner/1004303.png": {
+      "0": {
+        "md5": "3f21f6c379b369fa6cde69bb70473b6b"
+      }
+    },
+    "image/event/logo/43.png": {
+      "0": {
+        "md5": "283fdbabbe39cc777a98f818605be1dd"
       }
     }
   },
@@ -229,6 +327,60 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20241229235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4041,
+      "areaId": 404101,
+      "name": "第8届武技钻研竞技赛",
+      "text": "此处为伤害积分竞赛的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20241229235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4043,
+      "areaId": 404301,
+      "name": "恭贺新喜──响彻金徐年夜的钟声──",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250114235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4043,
+      "areaId": 404302,
+      "name": "恭贺新喜──响彻金徐年夜的钟声──-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250108030000",
+      "toDate": "20250114235959",
       "startTime": "",
       "endTime": ""
     }
