@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 96,
+      "eventType": 11,
+      "worldId": 4096,
+      "name": "揺情の初夢～賀正異聞奇譚～",
+      "backgroundImageFileName": "6707",
+      "mainImageFileName": "96",
+      "logoImageFileName": "96",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20241231120000",
+      "toDate": "20250114125959",
+      "rewardFromDate": "20250114125959",
+      "rewardToDate": "20250114125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_093"
     }
   ],
   "assets": {
@@ -87,6 +111,11 @@
     "image/event/logo/94.png": {
       "0": {
         "md5": "0a36d6e6fb6ee0a85e27e3a531de21ae"
+      }
+    },
+    "image/event/logo/96.png": {
+      "0": {
+        "md5": "686a86f839f45c6db9582a4b7a6b2ac6"
       }
     }
   },
@@ -124,6 +153,42 @@
       "weekTypes": "",
       "fromDate": "20241206133000",
       "toDate": "20241216125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4096,
+      "areaId": 409601,
+      "name": "揺情の初夢～賀正異聞奇譚～",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250114125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4096,
+      "areaId": 409602,
+      "name": "揺情の初夢～賀正異聞奇譚～-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250106160000",
+      "toDate": "20250114125959",
       "startTime": "",
       "endTime": ""
     }
