@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 94,
-      "eventType": 16,
-      "worldId": 4094,
-      "name": "キャット ピンク ～チーム：キル魔＝RRA～",
-      "backgroundImageFileName": "3401",
-      "mainImageFileName": "94",
-      "logoImageFileName": "94",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20241216133000",
-      "toDate": "20241230125959",
-      "rewardFromDate": "20241230133000",
-      "rewardToDate": "20250106235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
       "eventId": 96,
       "eventType": 11,
       "worldId": 4096,
@@ -47,6 +23,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_093"
+    },
+    {
+      "eventId": 98,
+      "eventType": 6,
+      "worldId": 4098,
+      "name": "ヴェル降臨戦",
+      "backgroundImageFileName": "90001",
+      "mainImageFileName": "98",
+      "logoImageFileName": "98",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20250114133000",
+      "toDate": "20250127125959",
+      "rewardFromDate": "20250127133000",
+      "rewardToDate": "20250203235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -55,14 +55,14 @@
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
     },
-    "image/event/logo/94.png": {
-      "0": {
-        "md5": "0a36d6e6fb6ee0a85e27e3a531de21ae"
-      }
-    },
     "image/event/logo/96.png": {
       "0": {
         "md5": "686a86f839f45c6db9582a4b7a6b2ac6"
+      }
+    },
+    "image/event/logo/98.png": {
+      "0": {
+        "md5": "a6843995d8de86cc87e894cd0a1323ef"
       }
     }
   },
@@ -100,6 +100,78 @@
       "weekTypes": "",
       "fromDate": "20250106133000",
       "toDate": "20250114125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4098,
+      "areaId": 409801,
+      "name": "NORMAL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5009802,5009803,5009805,5009806",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250127125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4098,
+      "areaId": 409802,
+      "name": "HARD",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5009802,5009803,5009805,5009806",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250127125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4098,
+      "areaId": 409803,
+      "name": "EXTRA",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5009802,5009803,5009805,5009806",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250127125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4098,
+      "areaId": 409804,
+      "name": "HELL",
+      "text": "降臨戦イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5009802,5009803,5009805,5009806",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250127125959",
       "startTime": "",
       "endTime": ""
     }
