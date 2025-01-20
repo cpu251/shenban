@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 99,
+      "eventType": 15,
+      "worldId": 4099,
+      "name": "第9回ギルド団結武闘祭",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "99",
+      "logoImageFileName": "99",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250120133000",
+      "toDate": "20250126235959",
+      "rewardFromDate": "20250127160000",
+      "rewardToDate": "20250202235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -63,6 +87,11 @@
     "image/event/logo/98.png": {
       "0": {
         "md5": "a6843995d8de86cc87e894cd0a1323ef"
+      }
+    },
+    "image/event/logo/99.png": {
+      "0": {
+        "md5": "85d200c5a6a6a17fe9280674688b1b6b"
       }
     }
   },
