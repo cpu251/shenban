@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 46,
+      "eventType": 15,
+      "worldId": 4046,
+      "name": "第3届公会团结武斗大会",
+      "backgroundImageFileName": "1026",
+      "mainImageFileName": "46",
+      "logoImageFileName": "46",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250124000000",
+      "toDate": "20250130235959",
+      "rewardFromDate": "20250130235959",
+      "rewardToDate": "20250206235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -84,6 +108,16 @@
       "0": {
         "md5": "9215d13f6e97b70edfbc0fe1864e26d5"
       }
+    },
+    "image/event/banner/1004601.png": {
+      "0": {
+        "md5": "c99959736ea376a55afda6f2f2b1d897"
+      }
+    },
+    "image/event/logo/46.png": {
+      "0": {
+        "md5": "c99959736ea376a55afda6f2f2b1d897"
+      }
     }
   },
   "assets1": {
@@ -120,6 +154,16 @@
     "image/event/logo/45.png": {
       "0": {
         "md5": "9c3d0403c9c48baf111a6e6310520485"
+      }
+    },
+    "image/event/banner/1004601.png": {
+      "0": {
+        "md5": "7943f4cbff4b8b21e88974a7deee2bf1"
+      }
+    },
+    "image/event/logo/46.png": {
+      "0": {
+        "md5": "7943f4cbff4b8b21e88974a7deee2bf1"
       }
     }
   },
