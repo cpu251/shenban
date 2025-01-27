@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 100,
+      "eventType": 11,
+      "worldId": 4100,
+      "name": "火竜を超えろ！～燃え盛る闘志～",
+      "backgroundImageFileName": "8901",
+      "mainImageFileName": "100",
+      "logoImageFileName": "100",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250127133000",
+      "toDate": "20250213125959",
+      "rewardFromDate": "20250213125959",
+      "rewardToDate": "20250213125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_095"
     }
   ],
   "assets": {
@@ -92,6 +116,11 @@
     "image/event/logo/99.png": {
       "0": {
         "md5": "85d200c5a6a6a17fe9280674688b1b6b"
+      }
+    },
+    "image/event/logo/100.png": {
+      "0": {
+        "md5": "7003935c4c383e6bb1c0c3655789f9f1"
       }
     }
   },
@@ -201,6 +230,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250127125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4100,
+      "areaId": 410001,
+      "name": "火竜を超えろ！～燃え盛る闘志～",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250213125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4100,
+      "areaId": 410002,
+      "name": "火竜を超えろ！～燃え盛る闘志～-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250206160000",
+      "toDate": "20250213125959",
       "startTime": "",
       "endTime": ""
     }
