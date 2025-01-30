@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 43,
-      "eventType": 11,
-      "worldId": 4043,
-      "name": "恭贺新喜─响彻金徐年夜的钟声─",
-      "backgroundImageFileName": "1043",
-      "mainImageFileName": "43",
-      "logoImageFileName": "43",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20241230030000",
-      "toDate": "20250114235959",
-      "rewardFromDate": "20250114235959",
-      "rewardToDate": "20250121235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_056"
-    },
-    {
       "eventId": 45,
       "eventType": 6,
       "worldId": 4045,
@@ -84,21 +60,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1004301.png": {
-      "0": {
-        "md5": "e2c2d657f99158ce31cfe40e359b73df"
-      }
-    },
-    "image/event/banner/1004303.png": {
-      "0": {
-        "md5": "8d017286ee3c3888910bae79ad8fb396"
-      }
-    },
-    "image/event/logo/43.png": {
-      "0": {
-        "md5": "e2c2d657f99158ce31cfe40e359b73df"
-      }
-    },
     "image/event/banner/1004501.png": {
       "0": {
         "md5": "9215d13f6e97b70edfbc0fe1864e26d5"
@@ -131,21 +92,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1004301.png": {
-      "0": {
-        "md5": "283fdbabbe39cc777a98f818605be1dd"
-      }
-    },
-    "image/event/banner/1004303.png": {
-      "0": {
-        "md5": "3f21f6c379b369fa6cde69bb70473b6b"
-      }
-    },
-    "image/event/logo/43.png": {
-      "0": {
-        "md5": "283fdbabbe39cc777a98f818605be1dd"
-      }
-    },
     "image/event/banner/1004501.png": {
       "0": {
         "md5": "9c3d0403c9c48baf111a6e6310520485"
@@ -168,42 +114,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4043,
-      "areaId": 404301,
-      "name": "恭贺新喜──响彻金徐年夜的钟声──",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250114235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4043,
-      "areaId": 404302,
-      "name": "恭贺新喜──响彻金徐年夜的钟声──-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250108030000",
-      "toDate": "20250114235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4045,
       "areaId": 404501,
