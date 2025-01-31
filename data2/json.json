@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 47,
+      "eventType": 11,
+      "worldId": 4047,
+      "name": "豆子、棍棒与笑脸青鬼",
+      "backgroundImageFileName": "1047",
+      "mainImageFileName": "47",
+      "logoImageFileName": "47",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250131030000",
+      "toDate": "20250213235959",
+      "rewardFromDate": "20250213235959",
+      "rewardToDate": "20250220235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_057"
     }
   ],
   "assets": {
@@ -79,6 +103,21 @@
       "0": {
         "md5": "c99959736ea376a55afda6f2f2b1d897"
       }
+    },
+    "image/event/banner/1004701.png": {
+      "0": {
+        "md5": "02355041fe5365896fa7114f5bc8aba7"
+      }
+    },
+    "image/event/banner/1004703.png": {
+      "0": {
+        "md5": "800e0fb7bd3e0ec70c0c56599553fae6"
+      }
+    },
+    "image/event/logo/47.png": {
+      "0": {
+        "md5": "02355041fe5365896fa7114f5bc8aba7"
+      }
     }
   },
   "assets1": {
@@ -110,6 +149,21 @@
     "image/event/logo/46.png": {
       "0": {
         "md5": "7943f4cbff4b8b21e88974a7deee2bf1"
+      }
+    },
+    "image/event/banner/1004701.png": {
+      "0": {
+        "md5": "6c8db47dd92b13a7c532f8794d50aec7"
+      }
+    },
+    "image/event/banner/1004703.png": {
+      "0": {
+        "md5": "f7d443a4f2f8a5066b4b876937b71479"
+      }
+    },
+    "image/event/logo/47.png": {
+      "0": {
+        "md5": "6c8db47dd92b13a7c532f8794d50aec7"
       }
     }
   },
@@ -183,6 +237,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250130235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4047,
+      "areaId": 404701,
+      "name": "豆子、棍棒与笑脸青鬼",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250213235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4047,
+      "areaId": 404702,
+      "name": "豆子、棍棒与笑脸青鬼-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250207030000",
+      "toDate": "20250213235959",
       "startTime": "",
       "endTime": ""
     }
