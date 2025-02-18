@@ -40,8 +40,32 @@
       "spineEffectOffset": "",
       "naviFileName": "10320101",
       "fromDate": "20250214030000",
+      "toDate": "20250228235959",
+      "rewardFromDate": "20250228235959",
+      "rewardToDate": "20250307235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 51,
+      "eventType": 5,
+      "worldId": 4051,
+      "name": "第9届武技钻研竞技赛",
+      "backgroundImageFileName": "",
+      "mainImageFileName": "",
+      "logoImageFileName": "",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250221030000",
       "toDate": "20250227235959",
-      "rewardFromDate": "20250227235959",
+      "rewardFromDate": "20250228030000",
       "rewardToDate": "20250306235959",
       "conditionType": 0,
       "conditionFrom": 0,
@@ -84,6 +108,16 @@
       "0": {
         "md5": "e2cbd420f6d15221198b043462508f4c"
       }
+    },
+    "image/event/banner/1005101.png": {
+      "0": {
+        "md5": "eb6b283887ddd4b33f7dae70becaae88"
+      }
+    },
+    "image/event/logo/51.png": {
+      "0": {
+        "md5": "b1f2a22bbcb64c8ed9c561a3bdf4108b"
+      }
     }
   },
   "assets1": {
@@ -120,6 +154,16 @@
     "image/event/logo/49.png": {
       "0": {
         "md5": "8f372c0a3f02164a964be3ccce89ffc7"
+      }
+    },
+    "image/event/banner/1005101.png": {
+      "0": {
+        "md5": "0298473b8b87d2be17705dd5c8bcef17"
+      }
+    },
+    "image/event/logo/51.png": {
+      "0": {
+        "md5": "d65e0cd6899de2ad2493c8558a6c4855"
       }
     }
   },
@@ -174,7 +218,7 @@
       "targetItemIds": "5004902,5004903,5004905",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20250227235959",
+      "toDate": "20250228235959",
       "startTime": "",
       "endTime": ""
     },
@@ -192,7 +236,7 @@
       "targetItemIds": "5004902,5004903,5004905",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20250227235959",
+      "toDate": "20250228235959",
       "startTime": "",
       "endTime": ""
     },
@@ -210,7 +254,7 @@
       "targetItemIds": "5004902,5004903,5004905",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20250227235959",
+      "toDate": "20250228235959",
       "startTime": "",
       "endTime": ""
     },
@@ -226,6 +270,24 @@
       "rewardItemCount": 0,
       "targetItemTypes": "710,710,710",
       "targetItemIds": "5004902,5004903,5004905",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250228235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4051,
+      "areaId": 405101,
+      "name": "第9届武技钻研竞技赛",
+      "text": "此处为伤害积分竞赛的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250227235959",
@@ -1304,7 +1366,7 @@
       "quizQuestionId": 101042,
       "quizOrder": 72,
       "quizDifficulty": 1,
-      "questionText": "请问在埃斯托利亚，象征春天的植物是什么？",
+      "questionText": "请问在维斯托利亚，象征春天的植物是什么？",
       "answerNo": 2,
       "choices1": "春来",
       "choices2": "春茜",
