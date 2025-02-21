@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 104,
+      "eventType": 9,
+      "worldId": 4104,
+      "name": "第6回 極致絆成武闘宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "104",
+      "logoImageFileName": "104",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250221133000",
+      "toDate": "20250227235959",
+      "rewardFromDate": "20250228160000",
+      "rewardToDate": "20250306235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
