@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 100,
-      "eventType": 11,
-      "worldId": 4100,
-      "name": "火竜を超えろ！～燃え盛る闘志～",
-      "backgroundImageFileName": "8901",
-      "mainImageFileName": "100",
-      "logoImageFileName": "100",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250127133000",
-      "toDate": "20250213125959",
-      "rewardFromDate": "20250213125959",
-      "rewardToDate": "20250213125959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_095"
-    },
-    {
       "eventId": 102,
       "eventType": 6,
       "worldId": 4102,
@@ -71,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 105,
+      "eventType": 11,
+      "worldId": 4105,
+      "name": "ダントレイルの事件簿２～正義の法廷と碧緑の検事～",
+      "backgroundImageFileName": "9001",
+      "mainImageFileName": "105",
+      "logoImageFileName": "105",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250228133000",
+      "toDate": "20250313125959",
+      "rewardFromDate": "20250313125959",
+      "rewardToDate": "20250313125959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_096"
     }
   ],
   "assets": {
@@ -79,54 +79,18 @@
         "md5": "372b5c5fc182da66fbc51768465a61fb"
       }
     },
-    "image/event/logo/100.png": {
-      "0": {
-        "md5": "7003935c4c383e6bb1c0c3655789f9f1"
-      }
-    },
     "image/event/logo/102.png": {
       "0": {
         "md5": "e6cd77bb596138fdf6c151405a1f714b"
       }
+    },
+    "image/event/logo/105.png": {
+      "0": {
+        "md5": "8464474ded519572cb50f6979321d560"
+      }
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4100,
-      "areaId": 410001,
-      "name": "火竜を超えろ！～燃え盛る闘志～",
-      "text": "交換アイテム収集イベントのエリアです",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250213125959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4100,
-      "areaId": 410002,
-      "name": "火竜を超えろ！～燃え盛る闘志～-後半戦",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250206133000",
-      "toDate": "20250213125959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4102,
       "areaId": 410201,
@@ -196,6 +160,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250228125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4105,
+      "areaId": 410501,
+      "name": "正義の法廷と碧緑の検事",
+      "text": "交換アイテム収集イベントのエリアです",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250313125959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4105,
+      "areaId": 410502,
+      "name": "正義の法廷と碧緑の検事-後半戦",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250306160000",
+      "toDate": "20250313125959",
       "startTime": "",
       "endTime": ""
     }
