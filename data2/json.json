@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 52,
+      "eventType": 11,
+      "worldId": 4052,
+      "name": "建立情谊！ ～门胁组维斯托利亚冒险谭～",
+      "backgroundImageFileName": "1052",
+      "mainImageFileName": "52",
+      "logoImageFileName": "52",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250228030000",
+      "toDate": "20250316235959",
+      "rewardFromDate": "20250316235959",
+      "rewardToDate": "20250323235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_066"
     }
   ],
   "assets": {
@@ -118,6 +142,21 @@
       "0": {
         "md5": "b1f2a22bbcb64c8ed9c561a3bdf4108b"
       }
+    },
+    "image/event/banner/1005201.png": {
+      "0": {
+        "md5": "18a1729da3f0d9c19ff0f511426588de"
+      }
+    },
+    "image/event/banner/1005203.png": {
+      "0": {
+        "md5": "b29aa2f605699f99b069ef74e843032d"
+      }
+    },
+    "image/event/logo/52.png": {
+      "0": {
+        "md5": "0c2927aa4c807cc3dc07a148d9a6ad7c"
+      }
     }
   },
   "assets1": {
@@ -164,6 +203,21 @@
     "image/event/logo/51.png": {
       "0": {
         "md5": "d65e0cd6899de2ad2493c8558a6c4855"
+      }
+    },
+    "image/event/banner/1005201.png": {
+      "0": {
+        "md5": "06e129e4d5793ae7e023f6c839f48fb8"
+      }
+    },
+    "image/event/banner/1005203.png": {
+      "0": {
+        "md5": "c34f932e6643dc405a3d214dcbc6a64b"
+      }
+    },
+    "image/event/logo/52.png": {
+      "0": {
+        "md5": "778d3ef8b5074e5eb8fdfff4761f9e8b"
       }
     }
   },
@@ -291,6 +345,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250227235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4052,
+      "areaId": 405201,
+      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250316235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4052,
+      "areaId": 405202,
+      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250307030000",
+      "toDate": "20250316235959",
       "startTime": "",
       "endTime": ""
     }
