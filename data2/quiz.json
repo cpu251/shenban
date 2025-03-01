@@ -1,258 +1,13 @@
 {
-  "EventMain": [
+  "QuizMain": [
     {
-      "eventId": 49,
-      "eventType": 6,
-      "worldId": 4049,
-      "name": "伊索波斯降临战",
-      "backgroundImageFileName": "1003",
-      "mainImageFileName": "49",
-      "logoImageFileName": "49",
-      "mainEnemySpineResourceId": "310591",
-      "mainEnemySpineScale": "1.2, 1.2",
-      "mainEnemySpineOffset": "-300, -150",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "10320101",
-      "fromDate": "20250214030000",
-      "toDate": "20250228235959",
-      "rewardFromDate": "20250228235959",
-      "rewardToDate": "20250307235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 51,
-      "eventType": 5,
-      "worldId": 4051,
-      "name": "第9届武技钻研竞技赛",
-      "backgroundImageFileName": "",
-      "mainImageFileName": "",
-      "logoImageFileName": "",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250221030000",
-      "toDate": "20250227235959",
-      "rewardFromDate": "20250228030000",
-      "rewardToDate": "20250306235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 52,
-      "eventType": 11,
-      "worldId": 4052,
-      "name": "建立情谊！ ～门胁组维斯托利亚冒险谭～",
-      "backgroundImageFileName": "1052",
-      "mainImageFileName": "52",
-      "logoImageFileName": "52",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250228030000",
-      "toDate": "20250316235959",
-      "rewardFromDate": "20250316235959",
-      "rewardToDate": "20250323235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_066"
-    }
-  ],
-  "assets": {
-    "image/event/banner/1000101.png": {
-      "0": {
-        "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1004901.png": {
-      "0": {
-        "md5": "e2cbd420f6d15221198b043462508f4c"
-      }
-    },
-    "image/event/banner/1005101.png": {
-      "0": {
-        "md5": "eb6b283887ddd4b33f7dae70becaae88"
-      }
-    },
-    "image/event/banner/1005201.png": {
-      "0": {
-        "md5": "18a1729da3f0d9c19ff0f511426588de"
-      }
-    },
-    "image/event/banner/1005203.png": {
-      "0": {
-        "md5": "b29aa2f605699f99b069ef74e843032d"
-      }
-    }
-  },
-  "assets1": {
-    "image/event/banner/1000101.png": {
-      "0": {
-        "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1004901.png": {
-      "0": {
-        "md5": "8f372c0a3f02164a964be3ccce89ffc7"
-      }
-    },
-    "image/event/banner/1005101.png": {
-      "0": {
-        "md5": "0298473b8b87d2be17705dd5c8bcef17"
-      }
-    },
-    "image/event/banner/1005201.png": {
-      "0": {
-        "md5": "06e129e4d5793ae7e023f6c839f48fb8"
-      }
-    },
-    "image/event/banner/1005203.png": {
-      "0": {
-        "md5": "c34f932e6643dc405a3d214dcbc6a64b"
-      }
-    }
-  },
-  "EventQuestArea": [
-    {
-      "worldId": 4049,
-      "areaId": 404901,
-      "name": "NORMAL",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5004902,5004903,5004905",
-      "weekTypes": "",
+      "quizId": 1,
+      "quizNaviId": 1,
+      "quizRewardItemType": 2,
+      "quizRewardItemId": 2001,
+      "quizRewardItemCount": 10,
       "fromDate": "",
-      "toDate": "20250228235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4049,
-      "areaId": 404902,
-      "name": "HARD",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5004902,5004903,5004905",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250228235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4049,
-      "areaId": 404903,
-      "name": "EXTRA",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5004902,5004903,5004905",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250228235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4049,
-      "areaId": 404904,
-      "name": "HELL",
-      "text": "此处为降临战活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "710,710,710",
-      "targetItemIds": "5004902,5004903,5004905",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250228235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4051,
-      "areaId": 405101,
-      "name": "第9届武技钻研竞技赛",
-      "text": "此处为伤害积分竞赛的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250227235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4052,
-      "areaId": 405201,
-      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250316235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4052,
-      "areaId": 405202,
-      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250307030000",
-      "toDate": "20250316235959",
-      "startTime": "",
-      "endTime": ""
+      "toDate": ""
     }
   ],
   "QuizDetail": [
@@ -1607,5 +1362,128 @@
       "toDate": ""
     }
   ],
-  "QuizTime": 1740819858414
+  "QuizCategory": [
+    {
+      "quizCategoryId": 101,
+      "quizCategoryName": "世界观"
+    },
+    {
+      "quizCategoryId": 201,
+      "quizCategoryName": "系统"
+    }
+  ],
+  "QuizNavi": [
+    {
+      "quizNaviId": 1,
+      "sceneType": 101,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 0,
+      "naviText": "是时候考考你了！\n准备好了吗？",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 101,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 0,
+      "naviText": "是时候考考你了！\n准备好了吗？",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 102,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 1,
+      "naviText": "那我要开始啰～！\n要出题了！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 102,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 1,
+      "naviText": "那我要开始啰～！\n要出题了！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 201,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 6,
+      "naviText": "好厉害！\n答对了！ ！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 201,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 6,
+      "naviText": "好厉害！\n答对了！ ！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 202,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 8,
+      "naviText": "请你要记\n清楚哦！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 202,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 8,
+      "naviText": "请你要记\n清楚哦！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 301,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 9,
+      "naviText": "可惜……答错了。\n下一题请好好加油！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 301,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 9,
+      "naviText": "可惜……答错了。\n下一题请好好加油！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 302,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 8,
+      "naviText": "请你要记\n清楚哦！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 302,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 8,
+      "naviText": "请你要记\n清楚哦！",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 401,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 0,
+      "naviText": "我要继续出题啰。\n准备好了吗？",
+      "rate": 50
+    },
+    {
+      "quizNaviId": 1,
+      "sceneType": 401,
+      "naviCharacterId": 100601,
+      "naviCharaFaceNo": 0,
+      "naviText": "我要继续出题啰。\n准备好了吗？",
+      "rate": 50
+    }
+  ]
 }
