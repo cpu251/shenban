@@ -25,30 +25,6 @@
       "bgm": ""
     },
     {
-      "eventId": 51,
-      "eventType": 5,
-      "worldId": 4051,
-      "name": "第9届武技钻研竞技赛",
-      "backgroundImageFileName": "",
-      "mainImageFileName": "",
-      "logoImageFileName": "",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250221030000",
-      "toDate": "20250227235959",
-      "rewardFromDate": "20250228030000",
-      "rewardToDate": "20250306235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
       "eventId": 52,
       "eventType": 11,
       "worldId": 4052,
@@ -84,11 +60,6 @@
         "md5": "e2cbd420f6d15221198b043462508f4c"
       }
     },
-    "image/event/banner/1005101.png": {
-      "0": {
-        "md5": "eb6b283887ddd4b33f7dae70becaae88"
-      }
-    },
     "image/event/banner/1005201.png": {
       "0": {
         "md5": "18a1729da3f0d9c19ff0f511426588de"
@@ -109,11 +80,6 @@
     "image/event/banner/1004901.png": {
       "0": {
         "md5": "8f372c0a3f02164a964be3ccce89ffc7"
-      }
-    },
-    "image/event/banner/1005101.png": {
-      "0": {
-        "md5": "0298473b8b87d2be17705dd5c8bcef17"
       }
     },
     "image/event/banner/1005201.png": {
@@ -197,24 +163,6 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250228235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4051,
-      "areaId": 405101,
-      "name": "第9届武技钻研竞技赛",
-      "text": "此处为伤害积分竞赛的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250227235959",
       "startTime": "",
       "endTime": ""
     },
