@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 52,
-      "eventType": 11,
-      "worldId": 4052,
-      "name": "建立情谊！ ～门胁组维斯托利亚冒险谭～",
-      "backgroundImageFileName": "1052",
-      "mainImageFileName": "52",
-      "logoImageFileName": "52",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250228030000",
-      "toDate": "20250316235959",
-      "rewardFromDate": "20250316235959",
-      "rewardToDate": "20250323235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_066"
-    },
-    {
       "eventId": 54,
       "eventType": 6,
       "worldId": 4054,
@@ -71,22 +47,60 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 56,
+      "eventType": 11,
+      "worldId": 4056,
+      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～",
+      "backgroundImageFileName": "1056",
+      "mainImageFileName": "56",
+      "logoImageFileName": "56",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250401030000",
+      "toDate": "20250415235959",
+      "rewardFromDate": "20250415235959",
+      "rewardToDate": "20250422235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_068"
+    },
+    {
+      "eventId": 57,
+      "eventType": 6,
+      "worldId": 4057,
+      "name": "米斯提加尔龙降临战",
+      "backgroundImageFileName": "1003",
+      "mainImageFileName": "57",
+      "logoImageFileName": "57",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20250404030000",
+      "toDate": "20250410235959",
+      "rewardFromDate": "20250410235959",
+      "rewardToDate": "20250415235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1005201.png": {
-      "0": {
-        "md5": "18a1729da3f0d9c19ff0f511426588de"
-      }
-    },
-    "image/event/banner/1005203.png": {
-      "0": {
-        "md5": "b29aa2f605699f99b069ef74e843032d"
       }
     },
     "image/event/banner/1005401.png": {
@@ -98,22 +112,27 @@
       "0": {
         "md5": "ad040b2ef090a23bc84377816d501f41"
       }
+    },
+    "image/event/banner/1005601.png": {
+      "0": {
+        "md5": "d7533c6a36914b8c467a08f34d7ff3b5"
+      }
+    },
+    "image/event/banner/1005603.png": {
+      "0": {
+        "md5": "5d73bdf7ff304b554f56c9c38e735c9d"
+      }
+    },
+    "image/event/banner/1005701.png": {
+      "0": {
+        "md5": "1000777a10fb3e38b1a85d60ee70de81"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1005201.png": {
-      "0": {
-        "md5": "06e129e4d5793ae7e023f6c839f48fb8"
-      }
-    },
-    "image/event/banner/1005203.png": {
-      "0": {
-        "md5": "c34f932e6643dc405a3d214dcbc6a64b"
       }
     },
     "image/event/banner/1005401.png": {
@@ -125,45 +144,24 @@
       "0": {
         "md5": "d3a3e46993f54ac54598f591765ec754"
       }
+    },
+    "image/event/banner/1005601.png": {
+      "0": {
+        "md5": "164427f3cd68797bd7a75b9663619f9d"
+      }
+    },
+    "image/event/banner/1005603.png": {
+      "0": {
+        "md5": "f17e806c3009e2a20b4c280b83d2ca9a"
+      }
+    },
+    "image/event/banner/1005701.png": {
+      "0": {
+        "md5": "36b89eafadae00c72027713dd1b03aca"
+      }
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4052,
-      "areaId": 405201,
-      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250316235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4052,
-      "areaId": 405202,
-      "name": "建立情谊！ ～门胁组埃斯托利亚冒险谭～-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250307030000",
-      "toDate": "20250316235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4054,
       "areaId": 405401,
@@ -233,6 +231,78 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250331235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4056,
+      "areaId": 405601,
+      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250415235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4056,
+      "areaId": 405602,
+      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250408030000",
+      "toDate": "20250415235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4057,
+      "areaId": 405701,
+      "name": "EASY",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710",
+      "targetItemIds": "5005703",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250410235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4057,
+      "areaId": 405702,
+      "name": "HELL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710",
+      "targetItemIds": "5005703",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250410235959",
       "startTime": "",
       "endTime": ""
     }
