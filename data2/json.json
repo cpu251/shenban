@@ -5,7 +5,7 @@
       "eventType": 6,
       "worldId": 4054,
       "name": "玛那亚卡拉尼降临战",
-      "backgroundImageFileName": "1003",
+      "backgroundImageFileName": "90001",
       "mainImageFileName": "54",
       "logoImageFileName": "54",
       "mainEnemySpineResourceId": "310591",
@@ -29,7 +29,7 @@
       "eventType": 15,
       "worldId": 4055,
       "name": "第4届公会团结武斗大会",
-      "backgroundImageFileName": "1026",
+      "backgroundImageFileName": "903",
       "mainImageFileName": "55",
       "logoImageFileName": "55",
       "mainEnemySpineResourceId": "",
@@ -41,7 +41,7 @@
       "naviFileName": "",
       "fromDate": "20250325030000",
       "toDate": "20250331235959",
-      "rewardFromDate": "20250331235959",
+      "rewardFromDate": "20250401030000",
       "rewardToDate": "20250407235959",
       "conditionType": 0,
       "conditionFrom": 0,
@@ -53,7 +53,7 @@
       "eventType": 11,
       "worldId": 4056,
       "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～",
-      "backgroundImageFileName": "1056",
+      "backgroundImageFileName": "6801",
       "mainImageFileName": "56",
       "logoImageFileName": "56",
       "mainEnemySpineResourceId": "",
@@ -77,7 +77,7 @@
       "eventType": 6,
       "worldId": 4057,
       "name": "米斯提加尔龙降临战",
-      "backgroundImageFileName": "1003",
+      "backgroundImageFileName": "90001",
       "mainImageFileName": "57",
       "logoImageFileName": "57",
       "mainEnemySpineResourceId": "310591",
@@ -307,5 +307,5 @@
       "endTime": ""
     }
   ],
-  "QuizTime": 1740819858414
+  "QuizTime": 1744088440526
 }
