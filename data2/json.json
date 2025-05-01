@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 56,
-      "eventType": 11,
-      "worldId": 4056,
-      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～",
-      "backgroundImageFileName": "6801",
-      "mainImageFileName": "56",
-      "logoImageFileName": "56",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250401030000",
-      "toDate": "20250415235959",
-      "rewardFromDate": "20250415235959",
-      "rewardToDate": "20250422235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_068"
-    },
-    {
       "eventId": 59,
       "eventType": 6,
       "worldId": 4059,
@@ -71,22 +47,36 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 61,
+      "eventType": 11,
+      "worldId": 4061,
+      "name": "堤沙罗提亚GP～神速的起跑冲刺～",
+      "backgroundImageFileName": "6901",
+      "mainImageFileName": "61",
+      "logoImageFileName": "61",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250501030000",
+      "toDate": "20250518235959",
+      "rewardFromDate": "20250518235959",
+      "rewardToDate": "20250525235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_071"
     }
   ],
   "assets": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1005601.png": {
-      "0": {
-        "md5": "d7533c6a36914b8c467a08f34d7ff3b5"
-      }
-    },
-    "image/event/banner/1005603.png": {
-      "0": {
-        "md5": "5d73bdf7ff304b554f56c9c38e735c9d"
       }
     },
     "image/event/banner/1005901.png": {
@@ -98,22 +88,22 @@
       "0": {
         "md5": "c5d516a37ff6a6cd23759f3e28959815"
       }
+    },
+    "image/event/banner/1006101.png": {
+      "0": {
+        "md5": "72002367f2bfab890714505d5b527e24"
+      }
+    },
+    "image/event/banner/1006103.png": {
+      "0": {
+        "md5": "cec3fb7fa0dddd185eaf4f572973b57f"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1005601.png": {
-      "0": {
-        "md5": "164427f3cd68797bd7a75b9663619f9d"
-      }
-    },
-    "image/event/banner/1005603.png": {
-      "0": {
-        "md5": "f17e806c3009e2a20b4c280b83d2ca9a"
       }
     },
     "image/event/banner/1005901.png": {
@@ -125,45 +115,19 @@
       "0": {
         "md5": "56eea2de4ade3d8d5d88c13fff4e37fb"
       }
+    },
+    "image/event/banner/1006101.png": {
+      "0": {
+        "md5": "ef394ed6c20bfd23b056f937c81a7fbe"
+      }
+    },
+    "image/event/banner/1006103.png": {
+      "0": {
+        "md5": "0bab6f0a975cc9f307bfebd68432a36b"
+      }
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4056,
-      "areaId": 405601,
-      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250415235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4056,
-      "areaId": 405602,
-      "name": "伊尔瓦德魔法学校 ～圣炎与好友情谊～-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250408030000",
-      "toDate": "20250415235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4059,
       "areaId": 405901,
@@ -233,6 +197,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250430235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4061,
+      "areaId": 406101,
+      "name": "堤沙罗提亚GP～神速的起跑冲刺～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250518235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4061,
+      "areaId": 406102,
+      "name": "堤沙罗提亚GP～神速的起跑冲刺～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250509030000",
+      "toDate": "20250518235959",
       "startTime": "",
       "endTime": ""
     }
