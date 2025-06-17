@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 63,
-      "eventType": 16,
-      "worldId": 4063,
-      "name": "丹特雷尔的事件簿～毁灭之戒与命运之卡～",
-      "backgroundImageFileName": "3901",
-      "mainImageFileName": "63",
-      "logoImageFileName": "63",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250516030000",
-      "toDate": "20250601235959",
-      "rewardFromDate": "20250601235959",
-      "rewardToDate": "20250608235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
-      "eventId": 64,
-      "eventType": 15,
-      "worldId": 4064,
-      "name": "第5届公会团结武斗大会",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "64",
-      "logoImageFileName": "64",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250526030000",
-      "toDate": "20250601235959",
-      "rewardFromDate": "20250602030000",
-      "rewardToDate": "20250608235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 65,
       "eventType": 11,
       "worldId": 4065,
@@ -103,16 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1006301.png": {
-      "0": {
-        "md5": "268d3ea36e468c8c2e4effda6df5b5f5"
-      }
-    },
-    "image/event/banner/1006401.png": {
-      "0": {
-        "md5": "73843c522bba7da1dbc4171d32aa8a02"
-      }
-    },
     "image/event/banner/1006501.png": {
       "0": {
         "md5": "c69b8a8b6f4786ba6cb39ecafdc4414a"
@@ -133,16 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1006301.png": {
-      "0": {
-        "md5": "9f39f0a8b941a203b0c64c364d8d8ad6"
-      }
-    },
-    "image/event/banner/1006401.png": {
-      "0": {
-        "md5": "a08d11476831c7a494091a75f461fed7"
       }
     },
     "image/event/banner/1006501.png": {
