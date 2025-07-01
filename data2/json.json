@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 65,
-      "eventType": 11,
-      "worldId": 4065,
-      "name": "阿尔泰特音乐祭～CIZGA结成！ ～",
-      "backgroundImageFileName": "7401",
-      "mainImageFileName": "65",
-      "logoImageFileName": "65",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250602030000",
-      "toDate": "20250615235959",
-      "rewardFromDate": "20250615235959",
-      "rewardToDate": "20250622235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_074"
-    },
-    {
       "eventId": 67,
       "eventType": 16,
       "worldId": 4067,
@@ -71,22 +47,36 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 70,
+      "eventType": 11,
+      "worldId": 4070,
+      "name": "欢迎光临！阿罗拉提诺度假村",
+      "backgroundImageFileName": "7502",
+      "mainImageFileName": "70",
+      "logoImageFileName": "70",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250701030000",
+      "toDate": "20250719235959",
+      "rewardFromDate": "20250719235959",
+      "rewardToDate": "20250726235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_075"
     }
   ],
   "assets": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1006501.png": {
-      "0": {
-        "md5": "c69b8a8b6f4786ba6cb39ecafdc4414a"
-      }
-    },
-    "image/event/banner/1006503.png": {
-      "0": {
-        "md5": "39db0d66619264ae7adc02d1cfe76128"
       }
     },
     "image/event/banner/1006701.png": {
@@ -98,22 +88,22 @@
       "0": {
         "md5": "e3d7f44af9f8a61243d8dd9f6badeb39"
       }
+    },
+    "image/event/banner/1007001.png": {
+      "0": {
+        "md5": "e49bae35b40231c0336f4be1e679de6e"
+      }
+    },
+    "image/event/banner/1007003.png": {
+      "0": {
+        "md5": "86db5084d504c60955f92a4a4a7fd608"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1006501.png": {
-      "0": {
-        "md5": "7e0c5efe7cc85d7a6adf6e4123b9c340"
-      }
-    },
-    "image/event/banner/1006503.png": {
-      "0": {
-        "md5": "8f60674a280cf93da4655545c834fc18"
       }
     },
     "image/event/banner/1006701.png": {
@@ -125,13 +115,23 @@
       "0": {
         "md5": "c914ae077c5f99a46e7a6412bd42b8ac"
       }
+    },
+    "image/event/banner/1007001.png": {
+      "0": {
+        "md5": "efee9199ca00266cce353904d2036cab"
+      }
+    },
+    "image/event/banner/1007003.png": {
+      "0": {
+        "md5": "63ca4f047392f19b8f14892ab1b035e9"
+      }
     }
   },
   "EventQuestArea": [
     {
-      "worldId": 4065,
-      "areaId": 406501,
-      "name": "阿尔泰特音乐祭～CIZGA结成！ ～",
+      "worldId": 4070,
+      "areaId": 407001,
+      "name": "欢迎光临！阿罗拉提诺度假村",
       "text": "此处为交换道具收集活动的地区",
       "eventAreaType": 0,
       "fileName": "101",
@@ -142,14 +142,14 @@
       "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20250615235959",
+      "toDate": "20250719235959",
       "startTime": "",
       "endTime": ""
     },
     {
-      "worldId": 4065,
-      "areaId": 406502,
-      "name": "阿尔泰特音乐祭～CIZGA结成！ ～-后半战",
+      "worldId": 4070,
+      "areaId": 407002,
+      "name": "欢迎光临！阿罗拉提诺度假村-后半战",
       "text": "",
       "eventAreaType": 1,
       "fileName": "101",
@@ -159,8 +159,8 @@
       "targetItemTypes": "0",
       "targetItemIds": "0",
       "weekTypes": "",
-      "fromDate": "20250609030000",
-      "toDate": "20250615235959",
+      "fromDate": "20250709030000",
+      "toDate": "20250719235959",
       "startTime": "",
       "endTime": ""
     }
