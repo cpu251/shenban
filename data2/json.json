@@ -25,30 +25,6 @@
       "bgm": "bgm_072"
     },
     {
-      "eventId": 69,
-      "eventType": 9,
-      "worldId": 4069,
-      "name": "第2届 极致绊成武斗宴",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "69",
-      "logoImageFileName": "69",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250624030000",
-      "toDate": "20250630235959",
-      "rewardFromDate": "20250701030000",
-      "rewardToDate": "20250707235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_069"
-    },
-    {
       "eventId": 70,
       "eventType": 11,
       "worldId": 4070,
@@ -71,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_075"
+    },
+    {
+      "eventId": 72,
+      "eventType": 16,
+      "worldId": 4072,
+      "name": "基亚克・密码～密探的矜持～",
+      "backgroundImageFileName": "2701",
+      "mainImageFileName": "72",
+      "logoImageFileName": "72",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250716030000",
+      "toDate": "20250731235959",
+      "rewardFromDate": "20250731235959",
+      "rewardToDate": "20250807235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
@@ -84,11 +84,6 @@
         "md5": "d3dca3b9062e862a3875442dc644960a"
       }
     },
-    "image/event/banner/1006901.png": {
-      "0": {
-        "md5": "e3d7f44af9f8a61243d8dd9f6badeb39"
-      }
-    },
     "image/event/banner/1007001.png": {
       "0": {
         "md5": "e49bae35b40231c0336f4be1e679de6e"
@@ -97,6 +92,11 @@
     "image/event/banner/1007003.png": {
       "0": {
         "md5": "86db5084d504c60955f92a4a4a7fd608"
+      }
+    },
+    "image/event/banner/1007201.png": {
+      "0": {
+        "md5": "62c7b071f5e6afa30cc6365c09a0c52d"
       }
     }
   },
@@ -111,11 +111,6 @@
         "md5": "6f5205205f5684c2cb6fff31d4a37a19"
       }
     },
-    "image/event/banner/1006901.png": {
-      "0": {
-        "md5": "c914ae077c5f99a46e7a6412bd42b8ac"
-      }
-    },
     "image/event/banner/1007001.png": {
       "0": {
         "md5": "efee9199ca00266cce353904d2036cab"
@@ -124,6 +119,11 @@
     "image/event/banner/1007003.png": {
       "0": {
         "md5": "63ca4f047392f19b8f14892ab1b035e9"
+      }
+    },
+    "image/event/banner/1007201.png": {
+      "0": {
+        "md5": "989fc784834aaa6c5726c69aaff9831c"
       }
     }
   },
