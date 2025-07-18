@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 67,
-      "eventType": 16,
-      "worldId": 4067,
-      "name": "新生！魔物讨伐队～香烟袅袅的面影～",
-      "backgroundImageFileName": "401",
-      "mainImageFileName": "67",
-      "logoImageFileName": "67",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250616030000",
-      "toDate": "20250702235959",
-      "rewardFromDate": "20250702235959",
-      "rewardToDate": "20250708235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
       "eventId": 70,
       "eventType": 11,
       "worldId": 4070,
@@ -79,11 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1006701.png": {
-      "0": {
-        "md5": "d3dca3b9062e862a3875442dc644960a"
-      }
-    },
     "image/event/banner/1007001.png": {
       "0": {
         "md5": "e49bae35b40231c0336f4be1e679de6e"
@@ -104,11 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1006701.png": {
-      "0": {
-        "md5": "6f5205205f5684c2cb6fff31d4a37a19"
       }
     },
     "image/event/banner/1007001.png": {
