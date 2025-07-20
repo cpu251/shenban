@@ -16,8 +16,8 @@
       "spineEffectOffset": "",
       "naviFileName": "",
       "fromDate": "20250701030000",
-      "toDate": "20250719235959",
-      "rewardFromDate": "20250719235959",
+      "toDate": "20250720235959",
+      "rewardFromDate": "20250720235959",
       "rewardToDate": "20250726235959",
       "conditionType": 0,
       "conditionFrom": 0,
@@ -108,7 +108,7 @@
       "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "",
-      "toDate": "20250719235959",
+      "toDate": "20250720235959",
       "startTime": "",
       "endTime": ""
     },
@@ -126,7 +126,7 @@
       "targetItemIds": "0",
       "weekTypes": "",
       "fromDate": "20250709030000",
-      "toDate": "20250719235959",
+      "toDate": "20250720235959",
       "startTime": "",
       "endTime": ""
     }
