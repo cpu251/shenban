@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 74,
+      "eventType": 11,
+      "worldId": 4074,
+      "name": "海洋大冒险～欧瑟阿尔与凸凹三人组～",
+      "backgroundImageFileName": "7702",
+      "mainImageFileName": "74",
+      "logoImageFileName": "74",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250801030000",
+      "toDate": "20250815235959",
+      "rewardFromDate": "20250815235959",
+      "rewardToDate": "20250822235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_080"
     }
   ],
   "assets": {
@@ -98,6 +122,16 @@
       "0": {
         "md5": "296b9d856368bed246f3f4eb80f79c74"
       }
+    },
+    "image/event/banner/1007401.png": {
+      "0": {
+        "md5": "d307264132f887fe391bc72352ac1a71"
+      }
+    },
+    "image/event/banner/1007403.png": {
+      "0": {
+        "md5": "a2f16f675e7ef1e7ec31c67cd4025f5d"
+      }
     }
   },
   "assets1": {
@@ -124,6 +158,16 @@
     "image/event/banner/1007301.png": {
       "0": {
         "md5": "e512b5073a51c435288f7344a12d4120"
+      }
+    },
+    "image/event/banner/1007401.png": {
+      "0": {
+        "md5": "18a6001f12d149dc635b55e9b435a61d"
+      }
+    },
+    "image/event/banner/1007403.png": {
+      "0": {
+        "md5": "e08135c2d88b33bd928b72982a4312fc"
       }
     }
   },
@@ -161,6 +205,42 @@
       "weekTypes": "",
       "fromDate": "20250709030000",
       "toDate": "20250720235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4074,
+      "areaId": 407401,
+      "name": "海洋大冒险～欧瑟阿尔与凸凹三人组～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250815235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4074,
+      "areaId": 407402,
+      "name": "海洋大冒险～欧瑟阿尔与凸凹三人组～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250808030000",
+      "toDate": "20250815235959",
       "startTime": "",
       "endTime": ""
     }
