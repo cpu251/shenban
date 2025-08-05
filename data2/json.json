@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 70,
-      "eventType": 11,
-      "worldId": 4070,
-      "name": "欢迎光临！阿罗拉提诺度假村",
-      "backgroundImageFileName": "7502",
-      "mainImageFileName": "70",
-      "logoImageFileName": "70",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250701030000",
-      "toDate": "20250720235959",
-      "rewardFromDate": "20250720235959",
-      "rewardToDate": "20250726235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_075"
-    },
-    {
       "eventId": 72,
       "eventType": 16,
       "worldId": 4072,
@@ -103,16 +79,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1007001.png": {
-      "0": {
-        "md5": "e49bae35b40231c0336f4be1e679de6e"
-      }
-    },
-    "image/event/banner/1007003.png": {
-      "0": {
-        "md5": "86db5084d504c60955f92a4a4a7fd608"
-      }
-    },
     "image/event/banner/1007201.png": {
       "0": {
         "md5": "62c7b071f5e6afa30cc6365c09a0c52d"
@@ -140,16 +106,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1007001.png": {
-      "0": {
-        "md5": "efee9199ca00266cce353904d2036cab"
-      }
-    },
-    "image/event/banner/1007003.png": {
-      "0": {
-        "md5": "63ca4f047392f19b8f14892ab1b035e9"
-      }
-    },
     "image/event/banner/1007201.png": {
       "0": {
         "md5": "989fc784834aaa6c5726c69aaff9831c"
@@ -172,42 +128,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4070,
-      "areaId": 407001,
-      "name": "欢迎光临！阿罗拉提诺度假村",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250720235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4070,
-      "areaId": 407002,
-      "name": "欢迎光临！阿罗拉提诺度假村-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250709030000",
-      "toDate": "20250720235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4074,
       "areaId": 407401,
