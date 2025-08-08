@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_080"
+    },
+    {
+      "eventId": 76,
+      "eventType": 16,
+      "worldId": 4076,
+      "name": "灭火英雄！",
+      "backgroundImageFileName": "209",
+      "mainImageFileName": "76",
+      "logoImageFileName": "76",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250814030000",
+      "toDate": "20250831235959",
+      "rewardFromDate": "20250831235959",
+      "rewardToDate": "20250907235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
@@ -98,6 +122,11 @@
       "0": {
         "md5": "a2f16f675e7ef1e7ec31c67cd4025f5d"
       }
+    },
+    "image/event/banner/1007601.png": {
+      "0": {
+        "md5": "274b385639aac851022aa02b337bca88"
+      }
     }
   },
   "assets1": {
@@ -124,6 +153,11 @@
     "image/event/banner/1007403.png": {
       "0": {
         "md5": "e08135c2d88b33bd928b72982a4312fc"
+      }
+    },
+    "image/event/banner/1007601.png": {
+      "0": {
+        "md5": "9f5355a2d2b5a19f3963da65ccdde710"
       }
     }
   },
