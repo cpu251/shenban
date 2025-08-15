@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 72,
-      "eventType": 16,
-      "worldId": 4072,
-      "name": "基亚克・密码～密探的矜持～",
-      "backgroundImageFileName": "2701",
-      "mainImageFileName": "72",
-      "logoImageFileName": "72",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250716030000",
-      "toDate": "20250731235959",
-      "rewardFromDate": "20250731235959",
-      "rewardToDate": "20250807235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
-      "eventId": 73,
-      "eventType": 15,
-      "worldId": 4073,
-      "name": "第6届公会团结武斗大会",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "73",
-      "logoImageFileName": "73",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250725030000",
-      "toDate": "20250731235959",
-      "rewardFromDate": "20250801030000",
-      "rewardToDate": "20250807235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 74,
       "eventType": 11,
       "worldId": 4074,
@@ -103,16 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1007201.png": {
-      "0": {
-        "md5": "62c7b071f5e6afa30cc6365c09a0c52d"
-      }
-    },
-    "image/event/banner/1007301.png": {
-      "0": {
-        "md5": "296b9d856368bed246f3f4eb80f79c74"
-      }
-    },
     "image/event/banner/1007401.png": {
       "0": {
         "md5": "d307264132f887fe391bc72352ac1a71"
@@ -133,16 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1007201.png": {
-      "0": {
-        "md5": "989fc784834aaa6c5726c69aaff9831c"
-      }
-    },
-    "image/event/banner/1007301.png": {
-      "0": {
-        "md5": "e512b5073a51c435288f7344a12d4120"
       }
     },
     "image/event/banner/1007401.png": {
