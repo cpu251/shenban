@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 79,
+      "eventType": 11,
+      "worldId": 4079,
+      "name": "暗秋乡～狂妖的怨恨～",
+      "backgroundImageFileName": "8101",
+      "mainImageFileName": "79",
+      "logoImageFileName": "79",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250901030000",
+      "toDate": "20250915235959",
+      "rewardFromDate": "20250915235959",
+      "rewardToDate": "20250922235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_081"
     }
   ],
   "assets": {
@@ -63,6 +87,16 @@
     "image/event/banner/1007801.png": {
       "0": {
         "md5": "a2dff1e29f2173d74075ac1e4a61518f"
+      }
+    },
+    "image/event/banner/1007901.png": {
+      "0": {
+        "md5": "ba62fc39d577e5dd61e41075725a18f1"
+      }
+    },
+    "image/event/banner/1007903.png": {
+      "0": {
+        "md5": "adc6e0e3ac4c703b9261913288afd8a2"
       }
     }
   },
@@ -81,8 +115,55 @@
       "0": {
         "md5": "82536017bfd5440a0443bbfb50e13a30"
       }
+    },
+    "image/event/banner/1007901.png": {
+      "0": {
+        "md5": "5adc79224e868445e01f737b6a5c854a"
+      }
+    },
+    "image/event/banner/1007903.png": {
+      "0": {
+        "md5": "74bf82c7862d0eca37f5e37a5d90b5ca"
+      }
     }
   },
-  "EventQuestArea": [],
+  "EventQuestArea": [
+    {
+      "worldId": 4079,
+      "areaId": 407901,
+      "name": "暗秋乡～狂妖的怨恨～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20250915235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4079,
+      "areaId": 407902,
+      "name": "暗秋乡～狂妖的怨恨～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20250908030000",
+      "toDate": "20250915235959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ],
   "QuizTime": 1744088440526
 }
