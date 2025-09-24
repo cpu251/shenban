@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 82,
+      "eventType": 15,
+      "worldId": 4082,
+      "name": "第7届公会团结武斗大会",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "82",
+      "logoImageFileName": "82",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20250924030000",
+      "toDate": "20250930235959",
+      "rewardFromDate": "20250930235959",
+      "rewardToDate": "20251007235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -69,6 +93,11 @@
       "0": {
         "md5": "d2d70631037d5acb9844cabcf91d0396"
       }
+    },
+    "image/event/banner/1008201.png": {
+      "0": {
+        "md5": "8eb87e4add0f679e5c8d17fd886554fc"
+      }
     }
   },
   "assets1": {
@@ -90,6 +119,11 @@
     "image/event/banner/1008101.png": {
       "0": {
         "md5": "940295cd0067a367b13864fc25df544d"
+      }
+    },
+    "image/event/banner/1008201.png": {
+      "0": {
+        "md5": "c28393f99c5198a0b5f572c406030c62"
       }
     }
   },
