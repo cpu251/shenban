@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 79,
-      "eventType": 11,
-      "worldId": 4079,
-      "name": "暗秋乡～狂妖的怨恨～",
-      "backgroundImageFileName": "8101",
-      "mainImageFileName": "79",
-      "logoImageFileName": "79",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20250901030000",
-      "toDate": "20250915235959",
-      "rewardFromDate": "20250915235959",
-      "rewardToDate": "20250922235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_081"
-    },
-    {
       "eventId": 81,
       "eventType": 6,
       "worldId": 4081,
@@ -71,22 +47,36 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 83,
+      "eventType": 11,
+      "worldId": 4083,
+      "name": "天灯祭～夜空中闪耀的羁绊之杯～",
+      "backgroundImageFileName": "1510",
+      "mainImageFileName": "83",
+      "logoImageFileName": "83",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251001030000",
+      "toDate": "20251015235959",
+      "rewardFromDate": "20251015235959",
+      "rewardToDate": "20251022235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_087"
     }
   ],
   "assets": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1007901.png": {
-      "0": {
-        "md5": "ba62fc39d577e5dd61e41075725a18f1"
-      }
-    },
-    "image/event/banner/1007903.png": {
-      "0": {
-        "md5": "adc6e0e3ac4c703b9261913288afd8a2"
       }
     },
     "image/event/banner/1008101.png": {
@@ -98,22 +88,22 @@
       "0": {
         "md5": "8eb87e4add0f679e5c8d17fd886554fc"
       }
+    },
+    "image/event/banner/1008301.png": {
+      "0": {
+        "md5": "5b2edb94f94dad4eefb97b8f25aac3db"
+      }
+    },
+    "image/event/banner/1008303.png": {
+      "0": {
+        "md5": "258720a64df5bd0c6909f0dba013e0ec"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "c271e16be35c347c59877f3873503a9a"
-      }
-    },
-    "image/event/banner/1007901.png": {
-      "0": {
-        "md5": "5adc79224e868445e01f737b6a5c854a"
-      }
-    },
-    "image/event/banner/1007903.png": {
-      "0": {
-        "md5": "74bf82c7862d0eca37f5e37a5d90b5ca"
       }
     },
     "image/event/banner/1008101.png": {
@@ -125,45 +115,19 @@
       "0": {
         "md5": "c28393f99c5198a0b5f572c406030c62"
       }
+    },
+    "image/event/banner/1008301.png": {
+      "0": {
+        "md5": "7d6ff33fc6568f31299f8806e7468eaa"
+      }
+    },
+    "image/event/banner/1008303.png": {
+      "0": {
+        "md5": "4148c96e6f1d40a6ebc317057e5cd7bf"
+      }
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4079,
-      "areaId": 407901,
-      "name": "暗秋乡～狂妖的怨恨～",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20250915235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4079,
-      "areaId": 407902,
-      "name": "暗秋乡～狂妖的怨恨～-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20250908030000",
-      "toDate": "20250915235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4081,
       "areaId": 408101,
@@ -233,6 +197,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20250930235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4083,
+      "areaId": 408301,
+      "name": "天灯祭～夜空中闪耀的羁绊之杯～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20251015235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4083,
+      "areaId": 408302,
+      "name": "天灯祭～夜空中闪耀的羁绊之杯～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20251008030000",
+      "toDate": "20251015235959",
       "startTime": "",
       "endTime": ""
     }
