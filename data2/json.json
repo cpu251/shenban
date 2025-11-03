@@ -23,6 +23,54 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 86,
+      "eventType": 9,
+      "worldId": 4086,
+      "name": "第4届 极致绊成武斗宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "86",
+      "logoImageFileName": "86",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251027030000",
+      "toDate": "20251102235959",
+      "rewardFromDate": "20251103030000",
+      "rewardToDate": "20251109235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
+    },
+    {
+      "eventId": 87,
+      "eventType": 11,
+      "worldId": 4087,
+      "name": "特雷马尼克秀",
+      "backgroundImageFileName": "8401",
+      "mainImageFileName": "87",
+      "logoImageFileName": "87",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251103030000",
+      "toDate": "20251119235959",
+      "rewardFromDate": "20251119235959",
+      "rewardToDate": "20251126235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_088"
     }
   ],
   "assets": {
@@ -34,6 +82,21 @@
     "image/event/banner/1008501.png": {
       "0": {
         "md5": "92b58d684b50e13686843f27334fb931"
+      }
+    },
+    "image/event/banner/1008601.png": {
+      "0": {
+        "md5": "8267dc79ea2122c360791280ce335e3e"
+      }
+    },
+    "image/event/banner/1008701.png": {
+      "0": {
+        "md5": "675c46b367c0cfa6fd11bc1413d337ef"
+      }
+    },
+    "image/event/banner/1008703.png": {
+      "0": {
+        "md5": "1d5a49f5034af61be009709193e64b68"
       }
     }
   },
@@ -47,8 +110,60 @@
       "0": {
         "md5": "847750c93e7900369ac57426799997b5"
       }
+    },
+    "image/event/banner/1008601.png": {
+      "0": {
+        "md5": "15072ce5540df5b48325fae629fe5f44"
+      }
+    },
+    "image/event/banner/1008701.png": {
+      "0": {
+        "md5": "cf0ff7d03ef4f2e5ef098fb27480255a"
+      }
+    },
+    "image/event/banner/1008703.png": {
+      "0": {
+        "md5": "67f32fe5ec17bb7cc8b895963dbf5d3c"
+      }
     }
   },
-  "EventQuestArea": [],
+  "EventQuestArea": [
+    {
+      "worldId": 4087,
+      "areaId": 408701,
+      "name": "特雷马尼克秀",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20251119235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4087,
+      "areaId": 408702,
+      "name": "特雷马尼克秀-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20251111030000",
+      "toDate": "20251119235959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ],
   "QuizTime": 1744088440526
 }
