@@ -25,30 +25,6 @@
       "bgm": "bgm_072"
     },
     {
-      "eventId": 86,
-      "eventType": 9,
-      "worldId": 4086,
-      "name": "第4届极致绊成武斗宴",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "86",
-      "logoImageFileName": "86",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251027030000",
-      "toDate": "20251102235959",
-      "rewardFromDate": "20251103030000",
-      "rewardToDate": "20251109235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_069"
-    },
-    {
       "eventId": 87,
       "eventType": 11,
       "worldId": 4087,
@@ -108,11 +84,6 @@
         "md5": "92b58d684b50e13686843f27334fb931"
       }
     },
-    "image/event/banner/1008601.png": {
-      "0": {
-        "md5": "8267dc79ea2122c360791280ce335e3e"
-      }
-    },
     "image/event/banner/1008701.png": {
       "0": {
         "md5": "675c46b367c0cfa6fd11bc1413d337ef"
@@ -138,11 +109,6 @@
     "image/event/banner/1008501.png": {
       "0": {
         "md5": "847750c93e7900369ac57426799997b5"
-      }
-    },
-    "image/event/banner/1008601.png": {
-      "0": {
-        "md5": "15072ce5540df5b48325fae629fe5f44"
       }
     },
     "image/event/banner/1008701.png": {
