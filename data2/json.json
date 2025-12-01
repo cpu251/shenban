@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 91,
+      "eventType": 11,
+      "worldId": 4091,
+      "name": "圣诞快乐～注入爱与真心的蛋糕～",
+      "backgroundImageFileName": "8609",
+      "mainImageFileName": "91",
+      "logoImageFileName": "91",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251201030000",
+      "toDate": "20251219235959",
+      "rewardFromDate": "20251219235959",
+      "rewardToDate": "20251226235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_089"
     }
   ],
   "assets": {
@@ -98,6 +122,16 @@
       "0": {
         "md5": "a3a690a968f519be8787b1bf7964ac04"
       }
+    },
+    "image/event/banner/1009101.png": {
+      "0": {
+        "md5": "00a2b9dfd035361ebd6bc2c1d00e728b"
+      }
+    },
+    "image/event/banner/1009103.png": {
+      "0": {
+        "md5": "6f9a44df6ec953ff5194f9c62a317c15"
+      }
     }
   },
   "assets1": {
@@ -124,6 +158,16 @@
     "image/event/banner/1009001.png": {
       "0": {
         "md5": "495343bd08cbb7c3072af97aa5de8dab"
+      }
+    },
+    "image/event/banner/1009101.png": {
+      "0": {
+        "md5": "241ede2e1a3bc774a29d77720ec70b64"
+      }
+    },
+    "image/event/banner/1009103.png": {
+      "0": {
+        "md5": "48dbbee9ed2bdcfbe277290fe3b84e2a"
       }
     }
   },
@@ -233,6 +277,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20251201235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4091,
+      "areaId": 409101,
+      "name": "圣诞快乐 ～注入爱与真心的蛋糕～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20251219235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4091,
+      "areaId": 409102,
+      "name": "圣诞快乐 ～注入爱与真心的蛋糕～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20251209030000",
+      "toDate": "20251219235959",
       "startTime": "",
       "endTime": ""
     }
