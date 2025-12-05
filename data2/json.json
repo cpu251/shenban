@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 87,
-      "eventType": 11,
-      "worldId": 4087,
-      "name": "特雷马尼克秀",
-      "backgroundImageFileName": "8401",
-      "mainImageFileName": "87",
-      "logoImageFileName": "87",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251103030000",
-      "toDate": "20251119235959",
-      "rewardFromDate": "20251119235959",
-      "rewardToDate": "20251126235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_088"
-    },
-    {
       "eventId": 89,
       "eventType": 6,
       "worldId": 4089,
@@ -103,16 +79,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1008701.png": {
-      "0": {
-        "md5": "675c46b367c0cfa6fd11bc1413d337ef"
-      }
-    },
-    "image/event/banner/1008703.png": {
-      "0": {
-        "md5": "1d5a49f5034af61be009709193e64b68"
-      }
-    },
     "image/event/banner/1008901.png": {
       "0": {
         "md5": "3b37d9b6bc228e572856710db74e0991"
@@ -140,16 +106,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1008701.png": {
-      "0": {
-        "md5": "3686840cb1397a07069150c714a7b11c"
-      }
-    },
-    "image/event/banner/1008703.png": {
-      "0": {
-        "md5": "54568b995005bdd8abc153c84b874e16"
-      }
-    },
     "image/event/banner/1008901.png": {
       "0": {
         "md5": "1d579d52d86a09dfe8e5f90727d7e881"
@@ -172,42 +128,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4087,
-      "areaId": 408701,
-      "name": "特雷马尼克秀",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20251119235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4087,
-      "areaId": 408702,
-      "name": "特雷马尼克秀-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20251111030000",
-      "toDate": "20251119235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4089,
       "areaId": 408901,
