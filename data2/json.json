@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_089"
+    },
+    {
+      "eventId": 94,
+      "eventType": 16,
+      "worldId": 4094,
+      "name": "猫咪粉红～队伍：击杀魔＝RRA～",
+      "backgroundImageFileName": "3401",
+      "mainImageFileName": "94",
+      "logoImageFileName": "94",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251216030000",
+      "toDate": "20251231235959",
+      "rewardFromDate": "20251231235959",
+      "rewardToDate": "20260107235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_072"
     }
   ],
   "assets": {
@@ -98,12 +122,17 @@
       "0": {
         "md5": "6f9a44df6ec953ff5194f9c62a317c15"
       }
+    },
+    "image/event/banner/1009401.png": {
+      "0": {
+        "md5": "a883b5860a51b66093dcaa50d332d373"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
-        "md5": "c271e16be35c347c59877f3873503a9a"
+        "md5": "812fbbcde5345d2a032fa59b8d0f5523"
       }
     },
     "image/event/banner/1008901.png": {
@@ -124,6 +153,11 @@
     "image/event/banner/1009103.png": {
       "0": {
         "md5": "9ed95ccd0518cbbc5969f7853c9bda0e"
+      }
+    },
+    "image/event/banner/1009401.png": {
+      "0": {
+        "md5": "9d63c2d8a7fd9d2ff96aa4d2f83ec42b"
       }
     }
   },
