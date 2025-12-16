@@ -25,30 +25,6 @@
       "bgm": ""
     },
     {
-      "eventId": 90,
-      "eventType": 15,
-      "worldId": 4090,
-      "name": "第8届公会团结武斗大会",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "90",
-      "logoImageFileName": "90",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251124030000",
-      "toDate": "20251130235959",
-      "rewardFromDate": "20251201030000",
-      "rewardToDate": "20251207235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 91,
       "eventType": 11,
       "worldId": 4091,
@@ -108,11 +84,6 @@
         "md5": "3b37d9b6bc228e572856710db74e0991"
       }
     },
-    "image/event/banner/1009001.png": {
-      "0": {
-        "md5": "a3a690a968f519be8787b1bf7964ac04"
-      }
-    },
     "image/event/banner/1009101.png": {
       "0": {
         "md5": "00a2b9dfd035361ebd6bc2c1d00e728b"
@@ -138,11 +109,6 @@
     "image/event/banner/1008901.png": {
       "0": {
         "md5": "1d579d52d86a09dfe8e5f90727d7e881"
-      }
-    },
-    "image/event/banner/1009001.png": {
-      "0": {
-        "md5": "9bee3a6273e2471a85c890634ab16ece"
       }
     },
     "image/event/banner/1009101.png": {
