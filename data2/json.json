@@ -47,6 +47,54 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_072"
+    },
+    {
+      "eventId": 95,
+      "eventType": 9,
+      "worldId": 4095,
+      "name": "第5届极致绊成武斗宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "95",
+      "logoImageFileName": "95",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251225030000",
+      "toDate": "20251231235959",
+      "rewardFromDate": "20260101030000",
+      "rewardToDate": "20260107235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
+    },
+    {
+      "eventId": 96,
+      "eventType": 11,
+      "worldId": 4096,
+      "name": "动情的初梦～贺岁异闻奇谭～",
+      "backgroundImageFileName": "6707",
+      "mainImageFileName": "96",
+      "logoImageFileName": "96",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20251230030000",
+      "toDate": "20260115235959",
+      "rewardFromDate": "20260115235959",
+      "rewardToDate": "20260122235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_093"
     }
   ],
   "assets": {
@@ -69,6 +117,21 @@
       "0": {
         "md5": "a883b5860a51b66093dcaa50d332d373"
       }
+    },
+    "image/event/banner/1009501.png": {
+      "0": {
+        "md5": "d27f5f934dbdec43e05292a9cfc6738d"
+      }
+    },
+    "image/event/banner/1009601.png": {
+      "0": {
+        "md5": "488d192ba22353891daae86502fb994f"
+      }
+    },
+    "image/event/banner/1009603.png": {
+      "0": {
+        "md5": "5f642b91f0d4918964fbf1e0b434ec82"
+      }
     }
   },
   "assets1": {
@@ -90,6 +153,21 @@
     "image/event/banner/1009401.png": {
       "0": {
         "md5": "9d63c2d8a7fd9d2ff96aa4d2f83ec42b"
+      }
+    },
+    "image/event/banner/1009501.png": {
+      "0": {
+        "md5": "a185ccaa15a11817b4e1d5faa81507e6"
+      }
+    },
+    "image/event/banner/1009601.png": {
+      "0": {
+        "md5": "6e175e6c7ab3195ce55eca2ada926d3b"
+      }
+    },
+    "image/event/banner/1009603.png": {
+      "0": {
+        "md5": "f158c30dd0934fdda16c28b2c74aef61"
       }
     }
   },
@@ -127,6 +205,42 @@
       "weekTypes": "",
       "fromDate": "20251209030000",
       "toDate": "20251219235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4096,
+      "areaId": 409601,
+      "name": "动情的初梦～贺岁异闻奇谭～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260115235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4096,
+      "areaId": 409602,
+      "name": "动情的初梦～贺岁异闻奇谭～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260108030000",
+      "toDate": "20260115235959",
       "startTime": "",
       "endTime": ""
     }
