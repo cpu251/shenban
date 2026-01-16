@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 94,
-      "eventType": 16,
-      "worldId": 4094,
-      "name": "猫咪粉红～队伍：击杀魔＝RRA～",
-      "backgroundImageFileName": "3401",
-      "mainImageFileName": "94",
-      "logoImageFileName": "94",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251216030000",
-      "toDate": "20251231235959",
-      "rewardFromDate": "20251231235959",
-      "rewardToDate": "20260107235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_072"
-    },
-    {
-      "eventId": 95,
-      "eventType": 9,
-      "worldId": 4095,
-      "name": "第5届极致绊成武斗宴",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "95",
-      "logoImageFileName": "95",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251225030000",
-      "toDate": "20251231235959",
-      "rewardFromDate": "20260101030000",
-      "rewardToDate": "20260107235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_069"
-    },
-    {
       "eventId": 96,
       "eventType": 11,
       "worldId": 4096,
@@ -103,16 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1009401.png": {
-      "0": {
-        "md5": "a883b5860a51b66093dcaa50d332d373"
-      }
-    },
-    "image/event/banner/1009501.png": {
-      "0": {
-        "md5": "d27f5f934dbdec43e05292a9cfc6738d"
-      }
-    },
     "image/event/banner/1009601.png": {
       "0": {
         "md5": "488d192ba22353891daae86502fb994f"
@@ -133,16 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "812fbbcde5345d2a032fa59b8d0f5523"
-      }
-    },
-    "image/event/banner/1009401.png": {
-      "0": {
-        "md5": "9d63c2d8a7fd9d2ff96aa4d2f83ec42b"
-      }
-    },
-    "image/event/banner/1009501.png": {
-      "0": {
-        "md5": "a185ccaa15a11817b4e1d5faa81507e6"
       }
     },
     "image/event/banner/1009601.png": {
