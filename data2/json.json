@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 96,
-      "eventType": 11,
-      "worldId": 4096,
-      "name": "动情的初梦～贺岁异闻奇谭～",
-      "backgroundImageFileName": "6707",
-      "mainImageFileName": "96",
-      "logoImageFileName": "96",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20251230030000",
-      "toDate": "20260115235959",
-      "rewardFromDate": "20260115235959",
-      "rewardToDate": "20260122235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_093"
-    },
-    {
       "eventId": 98,
       "eventType": 6,
       "worldId": 4098,
@@ -79,16 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1009601.png": {
-      "0": {
-        "md5": "488d192ba22353891daae86502fb994f"
-      }
-    },
-    "image/event/banner/1009603.png": {
-      "0": {
-        "md5": "5f642b91f0d4918964fbf1e0b434ec82"
-      }
-    },
     "image/event/banner/1009801.png": {
       "0": {
         "md5": "9fd702ef35fe231bfa5f9b73eb584815"
@@ -106,16 +72,6 @@
         "md5": "812fbbcde5345d2a032fa59b8d0f5523"
       }
     },
-    "image/event/banner/1009601.png": {
-      "0": {
-        "md5": "6e175e6c7ab3195ce55eca2ada926d3b"
-      }
-    },
-    "image/event/banner/1009603.png": {
-      "0": {
-        "md5": "f158c30dd0934fdda16c28b2c74aef61"
-      }
-    },
     "image/event/banner/1009801.png": {
       "0": {
         "md5": "4f58c49d1b05e7a96cda7029d3d88c9b"
@@ -128,42 +84,6 @@
     }
   },
   "EventQuestArea": [
-    {
-      "worldId": 4096,
-      "areaId": 409601,
-      "name": "动情的初梦～贺岁异闻奇谭～",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20260115235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4096,
-      "areaId": 409602,
-      "name": "动情的初梦～贺岁异闻奇谭～-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20260108030000",
-      "toDate": "20260115235959",
-      "startTime": "",
-      "endTime": ""
-    },
     {
       "worldId": 4098,
       "areaId": 409801,
