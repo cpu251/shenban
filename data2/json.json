@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 100,
+      "eventType": 11,
+      "worldId": 4100,
+      "name": "超越火龙吧！～熊熊燃烧的斗志～",
+      "backgroundImageFileName": "8901",
+      "mainImageFileName": "100",
+      "logoImageFileName": "100",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260202030000",
+      "toDate": "20260220235959",
+      "rewardFromDate": "20260220235959",
+      "rewardToDate": "20260227235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_095"
     }
   ],
   "assets": {
@@ -64,6 +88,16 @@
       "0": {
         "md5": "31cfd9839f4b6fb6146893e796c0eecb"
       }
+    },
+    "image/event/banner/1010001.png": {
+      "0": {
+        "md5": "415378099fdafadece5c24b5f0adb46b"
+      }
+    },
+    "image/event/banner/1010003.png": {
+      "0": {
+        "md5": "4f1ac50a90af96a6946c644545f2b9aa"
+      }
     }
   },
   "assets1": {
@@ -80,6 +114,16 @@
     "image/event/banner/1009901.png": {
       "0": {
         "md5": "9c13f8be0cb31d9237baf1d134600588"
+      }
+    },
+    "image/event/banner/1010001.png": {
+      "0": {
+        "md5": "98922cb1e611f72b4754ff2e60759329"
+      }
+    },
+    "image/event/banner/1010003.png": {
+      "0": {
+        "md5": "458d208fb5c139a24ef176028be60d5e"
       }
     }
   },
@@ -153,6 +197,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20260129235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4100,
+      "areaId": 410001,
+      "name": "超越火龙吧！～熊熊燃烧的斗志～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260220235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4100,
+      "areaId": 410002,
+      "name": "超越火龙吧！～熊熊燃烧的斗志～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260213030000",
+      "toDate": "20260220235959",
       "startTime": "",
       "endTime": ""
     }
