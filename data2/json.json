@@ -1,30 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 99,
-      "eventType": 15,
-      "worldId": 4099,
-      "name": "第9届公会团结武斗大会",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "99",
-      "logoImageFileName": "99",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20260126030000",
-      "toDate": "20260201235959",
-      "rewardFromDate": "20260202030000",
-      "rewardToDate": "20260208235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_048"
-    },
-    {
       "eventId": 100,
       "eventType": 11,
       "worldId": 4100,
@@ -79,11 +55,6 @@
         "md5": "c271e16be35c347c59877f3873503a9a"
       }
     },
-    "image/event/banner/1009901.png": {
-      "0": {
-        "md5": "31cfd9839f4b6fb6146893e796c0eecb"
-      }
-    },
     "image/event/banner/1010001.png": {
       "0": {
         "md5": "415378099fdafadece5c24b5f0adb46b"
@@ -104,11 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "812fbbcde5345d2a032fa59b8d0f5523"
-      }
-    },
-    "image/event/banner/1009901.png": {
-      "0": {
-        "md5": "9c13f8be0cb31d9237baf1d134600588"
       }
     },
     "image/event/banner/1010001.png": {
