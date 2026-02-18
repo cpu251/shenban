@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 104,
+      "eventType": 9,
+      "worldId": 4104,
+      "name": "第6届极致绊成武斗宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "104",
+      "logoImageFileName": "104",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260223030000",
+      "toDate": "20260301235959",
+      "rewardFromDate": "20260302030000",
+      "rewardToDate": "20260308235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
@@ -69,6 +93,11 @@
       "0": {
         "md5": "cee675f3291f77256e6cf32dbe5957e4"
       }
+    },
+    "image/event/banner/1010401.png": {
+      "0": {
+        "md5": "e3998483690874adc87ceb23d05666c4"
+      }
     }
   },
   "assets1": {
@@ -90,6 +119,11 @@
     "image/event/banner/1010201.png": {
       "0": {
         "md5": "da8318957caa96e7493c6b02c576fdb3"
+      }
+    },
+    "image/event/banner/1010401.png": {
+      "0": {
+        "md5": "0bff9c9380ee38f3eb01dc8b3ee414ab"
       }
     }
   },
@@ -203,5 +237,5 @@
       "endTime": ""
     }
   ],
-  "QuizTime": 1744088440526
+  "QuizTime": 1771390855543
 }
