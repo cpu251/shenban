@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 105,
+      "eventType": 11,
+      "worldId": 4105,
+      "name": "丹特雷尔的事件簿2～正义的法庭与碧绿的检察官～",
+      "backgroundImageFileName": "9001",
+      "mainImageFileName": "105",
+      "logoImageFileName": "105",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260302030000",
+      "toDate": "20260316235959",
+      "rewardFromDate": "20260316235959",
+      "rewardToDate": "20260323235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_096"
     }
   ],
   "assets": {
@@ -98,6 +122,16 @@
       "0": {
         "md5": "e3998483690874adc87ceb23d05666c4"
       }
+    },
+    "image/event/banner/1010501.png": {
+      "0": {
+        "md5": "acf8958d00cdd993dc91b6962ce53852"
+      }
+    },
+    "image/event/banner/1010503.png": {
+      "0": {
+        "md5": "a90ad4d1df5ef4a9da6ba025fb928e54"
+      }
     }
   },
   "assets1": {
@@ -124,6 +158,16 @@
     "image/event/banner/1010401.png": {
       "0": {
         "md5": "0bff9c9380ee38f3eb01dc8b3ee414ab"
+      }
+    },
+    "image/event/banner/1010501.png": {
+      "0": {
+        "md5": "0f0cc8ab820e3ebae4167fb7130e2680"
+      }
+    },
+    "image/event/banner/1010503.png": {
+      "0": {
+        "md5": "4016d588ec356e2a27367a8681da9b6c"
       }
     }
   },
@@ -233,6 +277,42 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20260228235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4105,
+      "areaId": 410501,
+      "name": "丹特雷尔的事件簿2～正义的法庭与碧绿的检察官～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260316235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4105,
+      "areaId": 410502,
+      "name": "丹特雷尔的事件簿2～正义的法庭与碧绿的检察官～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260309030000",
+      "toDate": "20260316235959",
       "startTime": "",
       "endTime": ""
     }
