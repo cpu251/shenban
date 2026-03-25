@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 108,
+      "eventType": 15,
+      "worldId": 4108,
+      "name": "第10届公会团结武斗大会",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "108",
+      "logoImageFileName": "108",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260325030000",
+      "toDate": "20260331235959",
+      "rewardFromDate": "20260401030000",
+      "rewardToDate": "20260407235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -69,6 +93,11 @@
       "0": {
         "md5": "5e550549d68eb4f4d6ef015a4625f6d3"
       }
+    },
+    "image/event/banner/1010801.png": {
+      "0": {
+        "md5": "87de8ae5cdbebfda2e79bed6eb969c07"
+      }
     }
   },
   "assets1": {
@@ -90,6 +119,11 @@
     "image/event/banner/1010701.png": {
       "0": {
         "md5": "56e7ffcd110f93755a6b064437761d21"
+      }
+    },
+    "image/event/banner/1010801.png": {
+      "0": {
+        "md5": "97da698437d555f014bad7a82031005d"
       }
     }
   },
