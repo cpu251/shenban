@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": ""
+    },
+    {
+      "eventId": 113,
+      "eventType": 9,
+      "worldId": 4113,
+      "name": "第7届极致绊成武斗宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "113",
+      "logoImageFileName": "113",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260424030000",
+      "toDate": "20260430235959",
+      "rewardFromDate": "20260501030000",
+      "rewardToDate": "20260507235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
@@ -69,6 +93,11 @@
       "0": {
         "md5": "b83d1a6abf18e991a534151e7886cd2d"
       }
+    },
+    "image/event/banner/1011301.png": {
+      "0": {
+        "md5": "08b8ce8d8ae09e26621daf30180a21ae"
+      }
     }
   },
   "assets1": {
@@ -90,6 +119,11 @@
     "image/event/banner/1011201.png": {
       "0": {
         "md5": "42af3de4831aa6339b33516f2736f8b4"
+      }
+    },
+    "image/event/banner/1011301.png": {
+      "0": {
+        "md5": "68c82ceeabccfbc44e3979f450e9746a"
       }
     }
   },
