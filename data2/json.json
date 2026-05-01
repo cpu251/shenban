@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 114,
+      "eventType": 11,
+      "worldId": 4114,
+      "name": "耶可英雄冒险谭～受迷宫诱惑之人～",
+      "backgroundImageFileName": "9701",
+      "mainImageFileName": "114",
+      "logoImageFileName": "114",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260501030000",
+      "toDate": "20260515235959",
+      "rewardFromDate": "20260515235959",
+      "rewardToDate": "20260522235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_103"
     }
   ],
   "assets": {
@@ -98,6 +122,16 @@
       "0": {
         "md5": "08b8ce8d8ae09e26621daf30180a21ae"
       }
+    },
+    "image/event/banner/1011401.png": {
+      "0": {
+        "md5": "9a44dcb157cfb0a8a285d6d634530ec6"
+      }
+    },
+    "image/event/banner/1011403.png": {
+      "0": {
+        "md5": "74ae11771e1a9f901358e76619a0c473"
+      }
     }
   },
   "assets1": {
@@ -124,6 +158,16 @@
     "image/event/banner/1011301.png": {
       "0": {
         "md5": "68c82ceeabccfbc44e3979f450e9746a"
+      }
+    },
+    "image/event/banner/1011401.png": {
+      "0": {
+        "md5": "8b6f6bfb7ee94ffab03cd24a18cc0a75"
+      }
+    },
+    "image/event/banner/1011403.png": {
+      "0": {
+        "md5": "677f489be7770a8f2a26a9a001779f7a"
       }
     }
   },
@@ -161,6 +205,42 @@
       "weekTypes": "",
       "fromDate": "20260413030000",
       "toDate": "20260420235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4114,
+      "areaId": 411401,
+      "name": "耶可英雄冒险谭～受迷宫引诱者～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260515235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4114,
+      "areaId": 411402,
+      "name": "耶可英雄冒险谭～受迷宫引诱者～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260508030000",
+      "toDate": "20260515235959",
       "startTime": "",
       "endTime": ""
     }
