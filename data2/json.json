@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_103"
+    },
+    {
+      "eventId": 116,
+      "eventType": 18,
+      "worldId": 4116,
+      "name": "维斯托利亚地图探索",
+      "backgroundImageFileName": "90004",
+      "mainImageFileName": "116",
+      "logoImageFileName": "112",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260515030000",
+      "toDate": "20260531235959",
+      "rewardFromDate": "20260531235959",
+      "rewardToDate": "20260531235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
     }
   ],
   "assets": {
@@ -98,6 +122,11 @@
       "0": {
         "md5": "74ae11771e1a9f901358e76619a0c473"
       }
+    },
+    "image/event/banner/1011601.png": {
+      "0": {
+        "md5": "b8a3786273b4561d0b31a7ec8f41747d"
+      }
     }
   },
   "assets1": {
@@ -124,6 +153,11 @@
     "image/event/banner/1011403.png": {
       "0": {
         "md5": "677f489be7770a8f2a26a9a001779f7a"
+      }
+    },
+    "image/event/banner/1011601.png": {
+      "0": {
+        "md5": "a92d0c151ba9c6d210e8a5cf2955295e"
       }
     }
   },
