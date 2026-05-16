@@ -1,54 +1,6 @@
 {
   "EventMain": [
     {
-      "eventId": 112,
-      "eventType": 18,
-      "worldId": 4112,
-      "name": "维斯托利亚地图探索",
-      "backgroundImageFileName": "90003",
-      "mainImageFileName": "112",
-      "logoImageFileName": "112",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20260415030000",
-      "toDate": "20260430235959",
-      "rewardFromDate": "20260430235959",
-      "rewardToDate": "20260430235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": ""
-    },
-    {
-      "eventId": 113,
-      "eventType": 9,
-      "worldId": 4113,
-      "name": "第7届极致绊成武斗宴",
-      "backgroundImageFileName": "903",
-      "mainImageFileName": "113",
-      "logoImageFileName": "113",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20260424030000",
-      "toDate": "20260430235959",
-      "rewardFromDate": "20260501030000",
-      "rewardToDate": "20260507235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_069"
-    },
-    {
       "eventId": 114,
       "eventType": 11,
       "worldId": 4114,
@@ -103,16 +55,6 @@
         "md5": "205135ac9ba1c60866b0041cd48cc46e"
       }
     },
-    "image/event/banner/1011201.png": {
-      "0": {
-        "md5": "b83d1a6abf18e991a534151e7886cd2d"
-      }
-    },
-    "image/event/banner/1011301.png": {
-      "0": {
-        "md5": "08b8ce8d8ae09e26621daf30180a21ae"
-      }
-    },
     "image/event/banner/1011401.png": {
       "0": {
         "md5": "9a44dcb157cfb0a8a285d6d634530ec6"
@@ -133,16 +75,6 @@
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "af28771dc394a795e0fcda356229f35e"
-      }
-    },
-    "image/event/banner/1011201.png": {
-      "0": {
-        "md5": "42af3de4831aa6339b33516f2736f8b4"
-      }
-    },
-    "image/event/banner/1011301.png": {
-      "0": {
-        "md5": "68c82ceeabccfbc44e3979f450e9746a"
       }
     },
     "image/event/banner/1011401.png": {
