@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 119,
+      "eventType": 11,
+      "worldId": 4119,
+      "name": "阿尔夫烈焰～双炎与神绊～",
+      "backgroundImageFileName": "10101",
+      "mainImageFileName": "119",
+      "logoImageFileName": "119",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260601030000",
+      "toDate": "20260614235959",
+      "rewardFromDate": "20260614235959",
+      "rewardToDate": "20260621235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_107"
     }
   ],
   "assets": {
@@ -63,6 +87,16 @@
     "image/event/banner/1011801.png": {
       "0": {
         "md5": "32770aac0693e95f8c115591aa8bf1be"
+      }
+    },
+    "image/event/banner/1011901.png": {
+      "0": {
+        "md5": "4bf999ee7139091de27771227e374e95"
+      }
+    },
+    "image/event/banner/1011903.png": {
+      "0": {
+        "md5": "3f23d0e238af0b90321e56b639eafcdb"
       }
     }
   },
@@ -81,8 +115,55 @@
       "0": {
         "md5": "fe9fbafffe9379122e2dc6fa7cf2e3ac"
       }
+    },
+    "image/event/banner/1011901.png": {
+      "0": {
+        "md5": "0d17df2f84f19a95f9e28979b960b56c"
+      }
+    },
+    "image/event/banner/1011903.png": {
+      "0": {
+        "md5": "824a8e0ef67066e3bf57ab50fefc13e2"
+      }
     }
   },
-  "EventQuestArea": [],
+  "EventQuestArea": [
+    {
+      "worldId": 4119,
+      "areaId": 411901,
+      "name": "阿尔夫烈焰～双炎与神绊～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260614235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4119,
+      "areaId": 411902,
+      "name": "阿尔夫烈焰～双炎与神绊～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260608030000",
+      "toDate": "20260614235959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ],
   "QuizTime": 1776229226654
 }
