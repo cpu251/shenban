@@ -47,6 +47,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 123,
+      "eventType": 11,
+      "worldId": 4123,
+      "name": "阿尔泰特泳跑～以智慧和双腿挑战！天大的秘密～",
+      "backgroundImageFileName": "3805",
+      "mainImageFileName": "123",
+      "logoImageFileName": "123",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260701030000",
+      "toDate": "20260720235959",
+      "rewardFromDate": "20260720235959",
+      "rewardToDate": "20260727235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_109"
     }
   ],
   "assets": {
@@ -63,6 +87,16 @@
     "image/event/banner/1012201.png": {
       "0": {
         "md5": "5e88cae2f15d90eaaf779bd180cbb4f5"
+      }
+    },
+    "image/event/banner/1012301.png": {
+      "0": {
+        "md5": "fe8b767ce683a4cdb5e8d438d3d22a56"
+      }
+    },
+    "image/event/banner/1012303.png": {
+      "0": {
+        "md5": "988fc2935f23799a27ba7851b4eb4331"
       }
     }
   },
@@ -81,8 +115,55 @@
       "0": {
         "md5": "864610eca55de88d3c0a919919edc8b6"
       }
+    },
+    "image/event/banner/1012301.png": {
+      "0": {
+        "md5": "766424ba9565ac84efdd4cf02101c897"
+      }
+    },
+    "image/event/banner/1012303.png": {
+      "0": {
+        "md5": "cd99bb1df018ba28f4b39f23f90731f4"
+      }
     }
   },
-  "EventQuestArea": [],
+  "EventQuestArea": [
+    {
+      "worldId": 4123,
+      "areaId": 412301,
+      "name": "阿尔泰特泳跑～以智慧和双腿挑战！天大的秘密～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260720235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4123,
+      "areaId": 412302,
+      "name": "阿尔泰特泳跑～以智慧和双腿挑战！天大的秘密～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260713030000",
+      "toDate": "20260720235959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ],
   "QuizTime": 1782451441973
 }
