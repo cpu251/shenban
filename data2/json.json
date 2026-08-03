@@ -71,6 +71,30 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 127,
+      "eventType": 11,
+      "worldId": 4127,
+      "name": "欧瑟阿尔传奇～跨越时光闪耀的光芒～",
+      "backgroundImageFileName": "10501",
+      "mainImageFileName": "127",
+      "logoImageFileName": "127",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260803030000",
+      "toDate": "20260817235959",
+      "rewardFromDate": "20260817235959",
+      "rewardToDate": "20260821235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_111"
     }
   ],
   "assets": {
@@ -98,6 +122,16 @@
       "0": {
         "md5": "cd2d2920498b5ee33343805795bc1f5a"
       }
+    },
+    "image/event/banner/1012701.png": {
+      "0": {
+        "md5": "f4319ce1ad1c74ded18ddef1afb49597"
+      }
+    },
+    "image/event/banner/1012703.png": {
+      "0": {
+        "md5": "7526304fcafff3c2f58793c0f13792c9"
+      }
     }
   },
   "assets1": {
@@ -124,6 +158,16 @@
     "image/event/banner/1012601.png": {
       "0": {
         "md5": "7bd811828aba12d1717cd3f0764e67b2"
+      }
+    },
+    "image/event/banner/1012701.png": {
+      "0": {
+        "md5": "e6e988ab64077d1632db5aa5a508e69e"
+      }
+    },
+    "image/event/banner/1012703.png": {
+      "0": {
+        "md5": "0e4d732eae9408af21110b6de5ecab16"
       }
     }
   },
@@ -161,6 +205,42 @@
       "weekTypes": "",
       "fromDate": "20260713030000",
       "toDate": "20260720235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4127,
+      "areaId": 412701,
+      "name": "欧瑟阿尔传奇～跨越时光闪耀的光芒～",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260817235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4127,
+      "areaId": 412702,
+      "name": "欧瑟阿尔传奇～跨越时光闪耀的光芒～-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260810030000",
+      "toDate": "20260817235959",
       "startTime": "",
       "endTime": ""
     }
