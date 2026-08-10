@@ -64,6 +64,16 @@
       "0": {
         "md5": "7526304fcafff3c2f58793c0f13792c9"
       }
+    },
+    "image/event/logo/127.png": {
+      "0": {
+        "md5": "f4319ce1ad1c74ded18ddef1afb49597"
+      }
+    },
+    "image/event/logo/129.png": {
+      "0": {
+        "md5": "a85fa2f0e8ee8243a08da0b39d6be871"
+      }
     }
   },
   "assets1": {
@@ -80,6 +90,16 @@
     "image/event/banner/1012703.png": {
       "0": {
         "md5": "67ee208176b7360467e8259b07352766"
+      }
+    },
+    "image/event/logo/127.png": {
+      "0": {
+        "md5": "cd77c36255e5ea251698ff031cdb6e9b"
+      }
+    },
+    "image/event/logo/129.png": {
+      "0": {
+        "md5": "a92d0c151ba9c6d210e8a5cf2955295e"
       }
     }
   },
