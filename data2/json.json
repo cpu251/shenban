@@ -1,6 +1,30 @@
 {
   "EventMain": [
     {
+      "eventId": 110,
+      "eventType": 6,
+      "worldId": 4110,
+      "name": "路人欧吉桑降临战",
+      "backgroundImageFileName": "90001",
+      "mainImageFileName": "110",
+      "logoImageFileName": "110",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20991231235959",
+      "toDate": "20991231235959",
+      "rewardFromDate": "20991231235959",
+      "rewardToDate": "20991231235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
       "eventId": 129,
       "eventType": 18,
       "worldId": 4129,
@@ -47,12 +71,94 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 132,
+      "eventType": 11,
+      "worldId": 4132,
+      "name": "心愿随烟火绽放！咚咚咚！王者之剑与凡斯汉的夏日庆典！",
+      "backgroundImageFileName": "11201",
+      "mainImageFileName": "132",
+      "logoImageFileName": "132",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260901030000",
+      "toDate": "20260918235959",
+      "rewardFromDate": "20260918235959",
+      "rewardToDate": "20260925235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_121"
+    },
+    {
+      "eventId": 134,
+      "eventType": 6,
+      "worldId": 4134,
+      "name": "复刻斯维尔降临战",
+      "backgroundImageFileName": "90001",
+      "mainImageFileName": "134",
+      "logoImageFileName": "134",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20260916030000",
+      "toDate": "20260930235959",
+      "rewardFromDate": "20261001000000",
+      "rewardToDate": "20261007235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 135,
+      "eventType": 15,
+      "worldId": 4135,
+      "name": "第13届公会团结武斗祭",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "135",
+      "logoImageFileName": "135",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20260924030000",
+      "toDate": "20260930235959",
+      "rewardFromDate": "20261001030000",
+      "rewardToDate": "20261007235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "205135ac9ba1c60866b0041cd48cc46e"
+      }
+    },
+    "image/event/banner/1011001.png": {
+      "0": {
+        "md5": "3ea41ffae5b04a3af528ad5881e20e8c"
+      }
+    },
+    "image/event/logo/110.png": {
+      "0": {
+        "md5": "4b460f79f7b6954cd293a0e7d116c192"
       }
     },
     "image/event/logo/129.png": {
@@ -69,12 +175,57 @@
       "0": {
         "md5": "262224b80eda958c8f622235d93794ad"
       }
+    },
+    "image/event/banner/1013201.png": {
+      "0": {
+        "md5": "7ba7ecb0634bfb54961d7c1f1ce9b555"
+      }
+    },
+    "image/event/banner/1013203.png": {
+      "0": {
+        "md5": "fbf08eac608bce5068af3b6b80806fff"
+      }
+    },
+    "image/event/logo/132.png": {
+      "0": {
+        "md5": "7ba7ecb0634bfb54961d7c1f1ce9b555"
+      }
+    },
+    "image/event/banner/1013401.png": {
+      "0": {
+        "md5": "8a8d50f5721898356838a2a4e29c7268"
+      }
+    },
+    "image/event/logo/134.png": {
+      "0": {
+        "md5": "8a8d50f5721898356838a2a4e29c7268"
+      }
+    },
+    "image/event/banner/1013501.png": {
+      "0": {
+        "md5": "bcad6527edccde696ca8ec79241a241a"
+      }
+    },
+    "image/event/logo/135.png": {
+      "0": {
+        "md5": "f468161079a5bc042d548f8e1e2a6722"
+      }
     }
   },
   "assets1": {
     "image/event/banner/1000101.png": {
       "0": {
         "md5": "af28771dc394a795e0fcda356229f35e"
+      }
+    },
+    "image/event/banner/1011001.png": {
+      "0": {
+        "md5": "acdcede4363d5359281e230dbbacc5ff"
+      }
+    },
+    "image/event/logo/110.png": {
+      "0": {
+        "md5": "4b460f79f7b6954cd293a0e7d116c192"
       }
     },
     "image/event/logo/129.png": {
@@ -91,8 +242,152 @@
       "0": {
         "md5": "f4803fc75d6da8e367829370383a777c"
       }
+    },
+    "image/event/banner/1013201.png": {
+      "0": {
+        "md5": "4a26602fbbafa084422a5e081a649ccd"
+      }
+    },
+    "image/event/banner/1013203.png": {
+      "0": {
+        "md5": "076575b528eeb681383dc89d068abea2"
+      }
+    },
+    "image/event/logo/132.png": {
+      "0": {
+        "md5": "4a26602fbbafa084422a5e081a649ccd"
+      }
+    },
+    "image/event/banner/1013401.png": {
+      "0": {
+        "md5": "f574b9bd00208b213bd574b45762fc5a"
+      }
+    },
+    "image/event/logo/134.png": {
+      "0": {
+        "md5": "f574b9bd00208b213bd574b45762fc5a"
+      }
+    },
+    "image/event/banner/1013501.png": {
+      "0": {
+        "md5": "97543112e25e7dda640a90968eb93e08"
+      }
+    },
+    "image/event/logo/135.png": {
+      "0": {
+        "md5": "39c3a11512068c6c40293f6c3754dd5b"
+      }
     }
   },
-  "EventQuestArea": [],
-  "QuizTime": 1782451441973
+  "EventQuestArea": [
+    {
+      "worldId": 4110,
+      "areaId": 411001,
+      "name": "EASY",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710",
+      "targetItemIds": "5011003",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20220407235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4110,
+      "areaId": 411002,
+      "name": "HELL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710",
+      "targetItemIds": "5011004",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20220407235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4132,
+      "areaId": 413201,
+      "name": "夏日庆典！",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260918235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4132,
+      "areaId": 413202,
+      "name": "夏日庆典！-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20260911030000",
+      "toDate": "20260918235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4134,
+      "areaId": 413401,
+      "name": "EVENT",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5002302,5002303,5002305,5013402",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260930235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4134,
+      "areaId": 413402,
+      "name": "HELL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5002302,5002303,5002305,5013402",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20260930235959",
+      "startTime": "",
+      "endTime": ""
+    }
+  ],
+  "QuizTime": 1788240799237
 }
