@@ -71,6 +71,78 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_048"
+    },
+    {
+      "eventId": 136,
+      "eventType": 11,
+      "worldId": 4136,
+      "name": "Wacha★Cheer －偶像结成计划－",
+      "backgroundImageFileName": "11301",
+      "mainImageFileName": "136",
+      "logoImageFileName": "136",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20261001030000",
+      "toDate": "20261017235959",
+      "rewardFromDate": "20261017235959",
+      "rewardToDate": "20261024235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_124"
+    },
+    {
+      "eventId": 138,
+      "eventType": 18,
+      "worldId": 4138,
+      "name": "维斯托利亚地图探索",
+      "backgroundImageFileName": "90006",
+      "mainImageFileName": "138",
+      "logoImageFileName": "112",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20261016030000",
+      "toDate": "20261101235959",
+      "rewardFromDate": "20261101235959",
+      "rewardToDate": "20261101235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 139,
+      "eventType": 19,
+      "worldId": 4139,
+      "name": "第10届极致绊成武斗宴",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "139",
+      "logoImageFileName": "139",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20261026030000",
+      "toDate": "20261101235959",
+      "rewardFromDate": "20261102030000",
+      "rewardToDate": "20261108235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_069"
     }
   ],
   "assets": {
@@ -108,6 +180,36 @@
       "0": {
         "md5": "f468161079a5bc042d548f8e1e2a6722"
       }
+    },
+    "image/event/banner/1013601.png": {
+      "0": {
+        "md5": "7ec7220a28c89772a774a5bc242ef582"
+      }
+    },
+    "image/event/banner/1013603.png": {
+      "0": {
+        "md5": "01e31c09f324389527f1854c2c32f8b9"
+      }
+    },
+    "image/event/logo/136.png": {
+      "0": {
+        "md5": "7ec7220a28c89772a774a5bc242ef582"
+      }
+    },
+    "image/event/logo/138.png": {
+      "0": {
+        "md5": "a85fa2f0e8ee8243a08da0b39d6be871"
+      }
+    },
+    "image/event/banner/1013901.png": {
+      "0": {
+        "md5": "32230baff55c9d264900c0bfb64af0c7"
+      }
+    },
+    "image/event/logo/139.png": {
+      "0": {
+        "md5": "32230baff55c9d264900c0bfb64af0c7"
+      }
     }
   },
   "assets1": {
@@ -144,6 +246,36 @@
     "image/event/logo/135.png": {
       "0": {
         "md5": "39c3a11512068c6c40293f6c3754dd5b"
+      }
+    },
+    "image/event/banner/1013601.png": {
+      "0": {
+        "md5": "97c612ac2933116a408273a29b56530e"
+      }
+    },
+    "image/event/banner/1013603.png": {
+      "0": {
+        "md5": "71adb799949a016661b57bdce6bc5548"
+      }
+    },
+    "image/event/logo/136.png": {
+      "0": {
+        "md5": "97c612ac2933116a408273a29b56530e"
+      }
+    },
+    "image/event/logo/138.png": {
+      "0": {
+        "md5": "a92d0c151ba9c6d210e8a5cf2955295e"
+      }
+    },
+    "image/event/banner/1013901.png": {
+      "0": {
+        "md5": "c4a56f1f43a53cf93f6bb3aa1f32380e"
+      }
+    },
+    "image/event/logo/139.png": {
+      "0": {
+        "md5": "c4a56f1f43a53cf93f6bb3aa1f32380e"
       }
     }
   },
@@ -219,7 +351,43 @@
       "toDate": "20260930235959",
       "startTime": "",
       "endTime": ""
+    },
+    {
+      "worldId": 4136,
+      "areaId": 413601,
+      "name": "Wacha★Cheer",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20261017235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4136,
+      "areaId": 413602,
+      "name": "Wacha★Cheer-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20261009030000",
+      "toDate": "20261017235959",
+      "startTime": "",
+      "endTime": ""
     }
   ],
-  "QuizTime": 1788240799237
+  "QuizTime": 1790832802808
 }
