@@ -25,30 +25,6 @@
       "bgm": ""
     },
     {
-      "eventId": 136,
-      "eventType": 11,
-      "worldId": 4136,
-      "name": "Wacha★Cheer－偶像结成计划－",
-      "backgroundImageFileName": "11301",
-      "mainImageFileName": "136",
-      "logoImageFileName": "136",
-      "mainEnemySpineResourceId": "",
-      "mainEnemySpineScale": "",
-      "mainEnemySpineOffset": "",
-      "spineEffectFileName": "",
-      "spineEffectScale": "",
-      "spineEffectOffset": "",
-      "naviFileName": "",
-      "fromDate": "20261001030000",
-      "toDate": "20261017235959",
-      "rewardFromDate": "20261017235959",
-      "rewardToDate": "20261024235959",
-      "conditionType": 0,
-      "conditionFrom": 0,
-      "conditionTo": 0,
-      "bgm": "bgm_124"
-    },
-    {
       "eventId": 138,
       "eventType": 18,
       "worldId": 4138,
@@ -113,21 +89,6 @@
         "md5": "4b460f79f7b6954cd293a0e7d116c192"
       }
     },
-    "image/event/banner/1013601.png": {
-      "0": {
-        "md5": "7ec7220a28c89772a774a5bc242ef582"
-      }
-    },
-    "image/event/banner/1013603.png": {
-      "0": {
-        "md5": "01e31c09f324389527f1854c2c32f8b9"
-      }
-    },
-    "image/event/logo/136.png": {
-      "0": {
-        "md5": "7ec7220a28c89772a774a5bc242ef582"
-      }
-    },
     "image/event/logo/138.png": {
       "0": {
         "md5": "a85fa2f0e8ee8243a08da0b39d6be871"
@@ -158,21 +119,6 @@
     "image/event/logo/110.png": {
       "0": {
         "md5": "4b460f79f7b6954cd293a0e7d116c192"
-      }
-    },
-    "image/event/banner/1013601.png": {
-      "0": {
-        "md5": "97c612ac2933116a408273a29b56530e"
-      }
-    },
-    "image/event/banner/1013603.png": {
-      "0": {
-        "md5": "71adb799949a016661b57bdce6bc5548"
-      }
-    },
-    "image/event/logo/136.png": {
-      "0": {
-        "md5": "97c612ac2933116a408273a29b56530e"
       }
     },
     "image/event/logo/138.png": {
@@ -225,42 +171,6 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20220407235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4136,
-      "areaId": 413601,
-      "name": "Wacha★Cheer",
-      "text": "此处为交换道具收集活动的地区",
-      "eventAreaType": 0,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "",
-      "toDate": "20261017235959",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
-      "worldId": 4136,
-      "areaId": 413602,
-      "name": "Wacha★Cheer-后半战",
-      "text": "",
-      "eventAreaType": 1,
-      "fileName": "101",
-      "rewardItemType": 0,
-      "rewardItemId": 0,
-      "rewardItemCount": 0,
-      "targetItemTypes": "0",
-      "targetItemIds": "0",
-      "weekTypes": "",
-      "fromDate": "20261009030000",
-      "toDate": "20261017235959",
       "startTime": "",
       "endTime": ""
     }
