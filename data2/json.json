@@ -71,6 +71,78 @@
       "conditionFrom": 0,
       "conditionTo": 0,
       "bgm": "bgm_069"
+    },
+    {
+      "eventId": 140,
+      "eventType": 11,
+      "worldId": 4140,
+      "name": "平行学园祭",
+      "backgroundImageFileName": "9207",
+      "mainImageFileName": "140",
+      "logoImageFileName": "140",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20261102030000",
+      "toDate": "20261116235959",
+      "rewardFromDate": "20261116235959",
+      "rewardToDate": "20261123235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_125"
+    },
+    {
+      "eventId": 142,
+      "eventType": 6,
+      "worldId": 4142,
+      "name": "復刻利亚法降临战",
+      "backgroundImageFileName": "90001",
+      "mainImageFileName": "142",
+      "logoImageFileName": "142",
+      "mainEnemySpineResourceId": "310591",
+      "mainEnemySpineScale": "1.2, 1.2",
+      "mainEnemySpineOffset": "-300, -150",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "10320101",
+      "fromDate": "20261116030000",
+      "toDate": "20261130235959",
+      "rewardFromDate": "20261130235959",
+      "rewardToDate": "20261207235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": ""
+    },
+    {
+      "eventId": 144,
+      "eventType": 15,
+      "worldId": 4144,
+      "name": "第14届公会团结武斗祭",
+      "backgroundImageFileName": "903",
+      "mainImageFileName": "144",
+      "logoImageFileName": "144",
+      "mainEnemySpineResourceId": "",
+      "mainEnemySpineScale": "",
+      "mainEnemySpineOffset": "",
+      "spineEffectFileName": "",
+      "spineEffectScale": "",
+      "spineEffectOffset": "",
+      "naviFileName": "",
+      "fromDate": "20261124030000",
+      "toDate": "20261130235959",
+      "rewardFromDate": "20261201030000",
+      "rewardToDate": "20261207235959",
+      "conditionType": 0,
+      "conditionFrom": 0,
+      "conditionTo": 0,
+      "bgm": "bgm_048"
     }
   ],
   "assets": {
@@ -103,6 +175,41 @@
       "0": {
         "md5": "32230baff55c9d264900c0bfb64af0c7"
       }
+    },
+    "image/event/banner/1014001.png": {
+      "0": {
+        "md5": "42dcfc63a3cf533e1534e8175c0a7e4d"
+      }
+    },
+    "image/event/banner/1014003.png": {
+      "0": {
+        "md5": "b8780a7c668564b081d4c41b89a55137"
+      }
+    },
+    "image/event/logo/140.png": {
+      "0": {
+        "md5": "42dcfc63a3cf533e1534e8175c0a7e4d"
+      }
+    },
+    "image/event/banner/1014201.png": {
+      "0": {
+        "md5": "68c3413d5b60bf016f66becc38897015"
+      }
+    },
+    "image/event/logo/142.png": {
+      "0": {
+        "md5": "68c3413d5b60bf016f66becc38897015"
+      }
+    },
+    "image/event/banner/1014401.png": {
+      "0": {
+        "md5": "9d945f195ba92841e4c210e3ec627b8b"
+      }
+    },
+    "image/event/logo/144.png": {
+      "0": {
+        "md5": "2b686a2264684ab3af71c0fb8995e175"
+      }
     }
   },
   "assets1": {
@@ -134,6 +241,41 @@
     "image/event/logo/139.png": {
       "0": {
         "md5": "c4a56f1f43a53cf93f6bb3aa1f32380e"
+      }
+    },
+    "image/event/banner/1014001.png": {
+      "0": {
+        "md5": "2a9758c6605a74bbe31f414a3c6d85bf"
+      }
+    },
+    "image/event/banner/1014003.png": {
+      "0": {
+        "md5": "37fb5832029f1ea93449a18a0083278b"
+      }
+    },
+    "image/event/logo/140.png": {
+      "0": {
+        "md5": "2a9758c6605a74bbe31f414a3c6d85bf"
+      }
+    },
+    "image/event/banner/1014201.png": {
+      "0": {
+        "md5": "ccd673e460e3c87886433fc25ed3ba41"
+      }
+    },
+    "image/event/logo/142.png": {
+      "0": {
+        "md5": "ccd673e460e3c87886433fc25ed3ba41"
+      }
+    },
+    "image/event/banner/1014401.png": {
+      "0": {
+        "md5": "cf92578b92a2f26151b4795e1988177f"
+      }
+    },
+    "image/event/logo/144.png": {
+      "0": {
+        "md5": "3938150e0d5c2c40c0d51b882a7533ca"
       }
     }
   },
@@ -171,6 +313,78 @@
       "weekTypes": "",
       "fromDate": "",
       "toDate": "20220407235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4140,
+      "areaId": 414001,
+      "name": "平行学园祭",
+      "text": "此处为交换道具收集活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20261116235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4140,
+      "areaId": 414002,
+      "name": "平行学园祭-后半战",
+      "text": "",
+      "eventAreaType": 1,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "0",
+      "targetItemIds": "0",
+      "weekTypes": "",
+      "fromDate": "20261109030000",
+      "toDate": "20261116235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4142,
+      "areaId": 414201,
+      "name": "EVENT",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5000702,5000703,5014202,5014203",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20261130235959",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "worldId": 4142,
+      "areaId": 414202,
+      "name": "HELL",
+      "text": "此处为降临战活动的地区",
+      "eventAreaType": 0,
+      "fileName": "101",
+      "rewardItemType": 0,
+      "rewardItemId": 0,
+      "rewardItemCount": 0,
+      "targetItemTypes": "710,710,710,710",
+      "targetItemIds": "5000702,5000703,5014202,5014203",
+      "weekTypes": "",
+      "fromDate": "",
+      "toDate": "20261130235959",
       "startTime": "",
       "endTime": ""
     }
